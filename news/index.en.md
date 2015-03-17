@@ -1,0 +1,2 @@
+name: News
+index: false
