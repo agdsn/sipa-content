@@ -15,7 +15,9 @@ Um passives Mitglied in der AG DSN zu werden und damit unter anderem Zugang zum 
 4. Etwa eine Woche nach der Abgabe erhältst Du ein Exemplar verbunden mit einem Zugangsdatenblatt zurück. Spätestens jetzt sollte Dein Zugang funktionieren. Bitte beschrifte Deinen Briefkasten, da ansonsten gegebenenfalls keine Zustellung erfolgen kann und wir Deinen Zugang sperren müssen.
 5. Überweise den Semesterbeitrag innerhalb von 31 Tagen auf unser Konto.
 
-[Mitgliedschaftsantrag](membership)
+[Mitgliedschaftsantrag](/documents/antrag_de.pdf)
+
+![Nocs title](http://www.wisd.com/nocs/demo/title-nocs.png "Nocs")
 
 Nun bist Du passives Mitglied.
 

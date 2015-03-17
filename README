@@ -25,5 +25,13 @@ In News also
 time: time in 24h format (eg. 17:34)
 type: decide alert, warning, info, good or not writing this line (default)
 
+If you only want to make a direct link to fill in.
+title: title of the link
+link: absolut link 
+glyphicon: when the page should show up choose a glyphicon form here
+
 Then leave one Line free and then Beginn your Markdown text.
+For absol
 Here is a good Tutorial for Markdown: http://markdowntutorial.com/
+
+
