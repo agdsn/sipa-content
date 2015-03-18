@@ -3,6 +3,7 @@ author: peter_klausing
 date: 2015-03-11
 direct: true
 glyphicon: glyphicon-log-in
+rank: 1
 
 ###Mitglied werden und Anschluss beantragen
 Die AG DSN ist eine Arbeitsgemeinschaft von Studenten wie dir, die sich unter anderem um die Bereitstellung des Netzwerkes in den von der Ihr betreuten Wohnheimen kümmern.
