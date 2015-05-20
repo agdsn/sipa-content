@@ -5,8 +5,8 @@ direct: true
 glyphicon: glyphicon-log-in
 rank: 1
 
-###Mitglied werden und Anschluss beantragen
-Die AG DSN ist eine Arbeitsgemeinschaft von Studenten wie dir, die sich unter anderem um die Bereitstellung des Netzwerkes in den von der Ihr betreuten Wohnheimen kümmern.
+###Mitglied werden und Netzwerkanschluss beantragen
+Die AG Dresdner Studentennetz ist eine Arbeitsgemeinschaft von Studenten wie dir. Wir verwalten und verbessern unter anderem das Netzwerk in den Wohnheimen Wunndtstraße, Zellescher Weg, Hochschulstraße, Borsbergstraße, Gerokstraße und Zeunerstraße. 
 ####Passives Mitglied werden
 Um passives Mitglied in der AG DSN zu werden und damit unter anderem Zugang zum Studentennetz zu erhalten , musst Du folgendes tun.
 
