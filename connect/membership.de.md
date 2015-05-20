@@ -18,8 +18,6 @@ Um passives Mitglied in der AG DSN zu werden und damit unter anderem Zugang zum 
 
 [Mitgliedschaftsantrag](/documents/antrag_de.pdf)
 
-![Nocs title](http://www.wisd.com/nocs/demo/title-nocs.png "Nocs")
-
 Nun bist Du passives Mitglied.
 
 ####Aktives Mitglied werden
