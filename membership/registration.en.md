@@ -25,3 +25,15 @@ otherwise we may not be able to deliver it and have to suspend
 your access to the network.
 5. Transfer the semester contribution within 31 days to our bank ac-
 count.
+
+#### Getting active Membership
+The student network was created by students like you and is managed and
+extended by volunteers. If you are interested in our work, stop by and take
+a look. You don’t have to study computer science or the like to participate.
+Many interesting tasks are waiting in the areas of managing of network and
+computing equipment, software development and maintenance, finances,
+administration, legal matters and public relations. Aside from good refer-
+ences for your CV you get insights in cool equipment you typically won’t get
+your hands on. We would be very glad, to welcome you in our team. Just
+come to our office hours or our weekly meeting, Wednesday at 20:30, in our
+office.
