@@ -1,21 +1,48 @@
 title: Semesterbeitrag
-author: peetcreative
 date: 2015-03-14
 direct: True
 glyphicon: glyphicon-euro
-
-### Semesterbeitrag
+rank: 2
 
 Als Mitglied musst Du jedes Semester einen Semesterbeitrag auf unser Konto überweisen. Wenn du kein Zugang hast Barzahlung ist nicht möglich.
-Der Beitrag wird zu Beginn eines jeden Semesters an der TU Dresden (Oktober bzw. April) beziehungsweise nach der Anmeldung fällig. Du hast 31 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang vorübergehend gesperrt und es fällt eine Versäumnisgebühr (aktuell 2,50 EUR) an.
+Der Beitrag wird zu Beginn eines jeden Semesters an der TU Dresden (Oktober bzw. April) beziehungsweise nach der Anmeldung fällig. Du hast 31 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang vorübergehend gesperrt und es fällt eine Versäumnisgebühr an.
 
-#### Betrag
+#### Betrag Borsbergstraße
  |
 --- | ---
-Mit Zugang zum Studentennetz in deinem Zimmer | 20 EUR
-Andere Mitglieder                             | 1 EUR
+Anmeldegebühr					| 20 €
+Semesterbeitrag im Wohnheim			| 15 €
+Ruhende Mitgliedschaft				| 0 €
 
-#### Überweisungsdaten:
+#### Betrag Gerokstraße
+ |
+--- | ---
+Anmeldegebühr					| 10 €
+Semesterbeitrag im Wohnheim			| 10 €
+Ruhende Mitgliedschaft				| 0 €
+
+#### Betrag Hochschulstraße
+ |
+--- | ---
+Anmeldegebühr					| 0 €
+Semesterbeitrag im Wohnheim			| 20 €
+Ruhende Mitgliedschaft				| 0 €
+
+#### Betrag Wundtstraße und Zellescher Weg
+ |
+--- | ---
+Anmeldegebühr					| 0 €
+Semesterbeitrag im Wohnheim			| 20 €
+Ruhende Mitgliedschaft				| 1 €
+
+#### Betrag Zeunerstraße
+ |
+--- | ---
+Anmeldegebühr					| ? €
+Semesterbeitrag im Wohnheim			| 15 €
+Ruhende Mitgliedschaft				| ? €
+
+#### Überweisungsdaten Wundtstraße und Zellescher Weg
  |
 ---------- | -----
 Empfänger  | Studentenrat der TU Dresden
