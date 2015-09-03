@@ -1,5 +1,5 @@
-title: Constitution of the AGDSN
+title: Constitution of the AG DSN
 glyphicon: glyphicon-file
 direct: true
-link: /documents/AGDSN_Satzung.pdf
+link: /documents/legal/AG_DSN_Satzung_en.pdf
 rank: 1
