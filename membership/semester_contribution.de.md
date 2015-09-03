@@ -1,46 +1,46 @@
 title: Semesterbeitrag
-date: 2015-03-14
+date: 2015-09-03
 direct: True
 glyphicon: glyphicon-euro
 rank: 2
 
-Als Mitglied musst Du jedes Semester einen Semesterbeitrag auf unser Konto überweisen. Wenn du kein Zugang hast Barzahlung ist nicht möglich.
-Der Beitrag wird zu Beginn eines jeden Semesters an der TU Dresden (Oktober bzw. April) beziehungsweise nach der Anmeldung fällig. Du hast 31 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang vorübergehend gesperrt und es fällt eine Versäumnisgebühr an.
+Als Mitglied musst Du jedes Semester einen Semesterbeitrag auf unser Konto überweisen. Barzahlung ist nicht möglich.
+Der Beitrag wird zu Beginn eines jeden Semesters an der TU Dresden (1. Oktober bzw.  1. April) beziehungsweise nach deiner Anmeldung fällig. Du hast 31 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang gesperrt und es fällt eine Versäumnisgebühr von 2,50€ an.
 
-#### Betrag Borsbergstraße
+#### Beitrag Borsbergstraße
  |
 --- | ---
 Anmeldegebühr					| 20 €
 Semesterbeitrag im Wohnheim			| 15 €
 Ruhende Mitgliedschaft				| 0 €
 
-#### Betrag Gerokstraße
+#### Beitrag Gerokstraße
  |
 --- | ---
 Anmeldegebühr					| 10 €
 Semesterbeitrag im Wohnheim			| 10 €
 Ruhende Mitgliedschaft				| 0 €
 
-#### Betrag Hochschulstraße
+#### Beitrag Hochschulstraße
  |
 --- | ---
 Anmeldegebühr					| 0 €
 Semesterbeitrag im Wohnheim			| 20 €
 Ruhende Mitgliedschaft				| 0 €
 
-#### Betrag Wundtstraße und Zellescher Weg
+#### Beitrag Wundtstraße und Zellescher Weg
  |
 --- | ---
 Anmeldegebühr					| 0 €
 Semesterbeitrag im Wohnheim			| 20 €
 Ruhende Mitgliedschaft				| 1 €
 
-#### Betrag Zeunerstraße
+#### Beitrag Zeunerstraße
  |
 --- | ---
-Anmeldegebühr					| ? €
+Anmeldegebühr					| tba
 Semesterbeitrag im Wohnheim			| 15 €
-Ruhende Mitgliedschaft				| ? €
+Ruhende Mitgliedschaft				| tba
 
 #### Überweisungsdaten Wundtstraße und Zellescher Weg
  |
@@ -52,17 +52,17 @@ IBAN       | DE 61 850 503 00 3120 219 540
 BIC        | OSDD DE 81 XXX
 Verwendung | Nutzer-ID, Nachname, Vorname, Wohnheim/Zimmer
 
-Die Nutzer-ID kannst Du dem Zugangsdatenblatt, das Dir einige Tage nach der Abgabe Deines Antrags in Deinen Postkasten zugestellt wird, oder der Trafficübersicht auf der Website entnehmen.
+Die Nutzer-ID kannst Du dem Datenblatt, das Dir einige Tage nach der Abgabe Deines Antrags in Deinen Postkasten zugestellt wurde, oder deiner [Benutzerseite](/usersuite) entnehmen.
 
-#### Überprüfung des Zahlungszustands
+### Überprüfung deines Finanzstatus
 
-Du kannst deinen Zahlungszustand in der [Usersuite](/usersuite) einsehen,  in dem du dich mit deinem Nutzername und Passwort einloggst.
+Du kannst deinen Finanzstatus auf deiner [Benutzerseite](/usersuite) einsehen, indem du dich mit deinem Nutzername und Passwort einloggst.
 
 Die Überweisung wird nach Eingang bei uns durch ein rechnergestütztes System zugeordnet.
-Sollte Deine Zahlungzustand sich nicht nach Ablauf von mindestens drei Werktagen geändert haben, so möchten wir Dich bitten, mit einem Kontoauszug (kein Überweisungsvordruck, o.ä.) in die Sprechstunde zu kommen. 
+Sollte Deine Finanzstatus sich nicht nach Ablauf von mindestens drei Werktagen geändert haben, so möchten wir Dich bitten, mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in die Sprechstunde zu kommen. 
 
-#### Verwendung
+### Verwendung
 
-Das Geld der Mitglieder wird durch uns verwaltet und komplett reinvestiert. Die Administratoren arbeiten vollständig ehrenamtlich und erhalten keinen Lohn in Form von finanziellen Zuwendungen.
+Die Beiträge der Mitglieder werden durch uns verwaltet und komplett reinvestiert. Die Administratoren arbeiten vollständig ehrenamtlich und erhalten keinen Lohn oder Aufwandsentschädigungen.
 
-Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft werden, genauso finanzieren sich die Server und Dienste, die wir Dir zur Verfügung stellen über die Mitgliedsbeiträge. Für weitere Informationen schau doch einfach mal in der Sprechstunde vorbei.
+Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft werden, genauso finanzieren sich die Server und Dienste, die wir Dir zur Verfügung stellen, über die Mitgliedsbeiträge. Für weitere Informationen schau doch einfach mal in der Sprechstunde vorbei.
