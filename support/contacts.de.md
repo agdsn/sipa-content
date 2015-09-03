@@ -6,9 +6,10 @@ rank: 1
 
 Bei Problemen mit deinem Netzwerkanschluss hast du mehre Möglichkeiten:
 
-*  Komme zu einer Sprechstunde in eines der Büros
-*  Schreibe uns eine Mail auf support@agdsn.de
-*  Gehe zu einem Hausverantwortlichen. Eine Liste mit Admins die in Deinem Haus wohnen, kannst du im Erdgeschoss bei den Hausaushägen finden.
+* Komme zu einer Sprechstunde in eines der Büros
+* Schreibe uns eine Mail auf support@agdsn.de
+* Gehe zu einem Hausverantwortlichen. Eine Liste mit Admins die in Deinem Haus wohnen, kannst du im Erdgeschoss bei den Hausaushägen finden.
+* [Logge dich ein](/login) und nutze das [Kontaktformular](/usersuite/contact)
 
 ### Sprechstunden
 
