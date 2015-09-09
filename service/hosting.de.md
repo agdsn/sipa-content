@@ -16,7 +16,7 @@ Der Zugriff auf Deine Seiten erfolgt dann über
 
 Als Nutzerlogin sollte Dein Login verwendet werden, welches auch auf Deinem Antrag steht, den Du von uns zurück erhalten hast. Ganz wichtig ist dabei das ~, ohne dies gehts nicht!
 
-Um Zugriff auf Dein Home-Verzeichnis zu erhalten ist es nötig, sich über SSH auf dem Userhosting einzuloggen. Unter Linux oder Mac ist das kein Problem, jedoch erzwingt die Verwendung von Microsoft Windows als Betriebssystem die Verwendung eines Programms um diesen Zugriff per SSH zu erhalten. Hier bieten sich zum Beispiel Putty oder diverse andere an. Dateien verschiebt man bei Verwendung von Microsoft-Betriebssystemen am besten per WinSCP zu Helios.
+Um Zugriff auf Dein Home-Verzeichnis zu erhalten ist es nötig, sich über SSH auf dem Userhosting einzuloggen. Unter Linux oder Mac ist das kein Problem, jedoch erzwingt die Verwendung von Microsoft Windows als Betriebssystem die Verwendung eines Programms um diesen Zugriff per SSH zu erhalten. Hier bieten sich zum Beispiel Putty oder diverse andere an. Dateien verschiebt man bei Verwendung von Microsoft-Betriebssystemen am besten per WinSCP zum Userhosting.
 
 Weitere von uns angebotene Features sind eine eigene MySQL-Datenbank und die Möglichkeit, PHP zu nutzen. Die Datenbankverwaltung ist per Konsole (Aufruf über: mysql -u nutzerlogin -p) möglich, nachdem in der [Usersuite](/usersuite) ein Datenbank-Passwort gesetzt wurde.
 
