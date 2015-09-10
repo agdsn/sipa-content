@@ -4,14 +4,14 @@ direct: true
 glyphicon: glyphicon-envelope
 rank: 3
 
-In unserem System bekommst Du als Mitglied ein E-Mail-Konto.
+In unserem System bekommst Du (außer in der Zeunerstraße) als Mitglied ein E-Mail-Konto.
+Das Konto musst Du nicht nutzen, um von uns E-Mails zu bekommen - du kannst auch in der [Usersuite](/usersuite) einen E-Mail-Forward einrichten, um die Nachrichten an Deine schon vorhandene Adresse geschickt zu bekommen.
 Diese E-Mail hat die Form:
 
 * Borsbergstraße: `<nutzername>@wh10.tu-dresden.de`
 * Gerokstraße: `<nutzername>@wh17.tu-dresden.de`
 * Hochschulstraße: `<nutzername>@wh12.tu-dresden.de`
 * Wundtstraße und Zellescher Weg: `<nutzername>@wh2.tu-dresden.de`
-* Zeunerstraße: `<nutzername>@wh25.tu-dresden.de`
 
 Das initiale Passwort kannst du dem Zugangsdatenblatt, das Du mit einem Exemplar deines Antrags zurückbekommst, entnehmen.
 Ändern kannst du es jeder Zeit in der [Usersuite](/usersuite).
@@ -82,13 +82,6 @@ Postausgang-Server | wh12.tu-dresden.de | ? | ? | ?
 Posteingang-Server | mail.wh2.tu-dresden.de | IMAP(995) | SSL/TLS | Normal Passwort
 Posteingang-Server | mail.wh2.tu-dresden.de | POP3(995) | SSL/TLS | Normal Passwort
 Postausgang-Server | mail.wh2.tu-dresden.de | SMTP(465) | SSL/TLS | Normal Passwort
-
-#### Zeunerstraße
-
-&nbsp; | Hostname | Protokoll(Port) | SSL | Authentifizierung
--|-|-|-|-
-Posteingang-Server | ? | ? | ? | ?
-Postausgang-Server | ? | ? | ? | ?
 
 (Standard) IMAP belässt alle Mails auf dem Server. Das ermöglicht die Nutzung mehreren E-Mailprogrammen, daher mehreren Geräten und der Webmailfunktion. E-Mailprogramme speichern sich die geholten trotzdem zur offline Nutzung auf dem Gerät.
 POP3 ruft einmal Mails vom Server ab und löscht sie dann auf dem Server. Es ist nicht möglich mehrere E-Mailprogramme zu benutzen. 
