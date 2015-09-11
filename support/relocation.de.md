@@ -1,5 +1,4 @@
-=======
-title: Umzug/ Auszug 
+title: Umzug/ Auszug
 author: jan_braje
 date: 2015-08-24
 direct: true
@@ -17,4 +16,3 @@ Bitte teile in deinem aktuellen Wohnheim deine Beendigung der Mitgliedschaft(Lin
 
 ####Kurzzeitiger Auszug
 Siehe [Mitgliedschaft pausieren](/pages/membership/suspension).
-
