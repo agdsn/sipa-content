@@ -4,10 +4,10 @@ direct: True
 glyphicon: glyphicon-user
 rank: 1
 
-Bei Problemen mit deinem Netzwerkanschluss hast du mehre Möglichkeiten:
+Bei Problemen mit deinem Netzwerkanschluss hast Du mehre Möglichkeiten:
 
 * Komme zu einer Sprechstunde in eines der Büros
-* Schreibe uns eine Mail auf support@agdsn.de
+* Schreibe uns eine Mail. Die Adresse ist auf den Anträgen zu finden und nach dem Login einsehbar
 * Gehe zu einem Hausverantwortlichen. Eine Liste mit Admins die in Deinem Haus wohnen, kannst du im Erdgeschoss bei den Hausaushägen finden.
 * [Logge dich ein](/login) und nutze das [Kontaktformular](/usersuite/contact)
 
@@ -17,7 +17,7 @@ Wenn du deine Mac-Adresse ändern willst, bringe bitte einen Lichtbildausweis mi
 
  |
 --- | --- | ---
-Borsbergstraße 34			| Montags	| 19:00 - 20:00 Uhr
+Borsbergstraße 34 (7. Etage)		| Montags	| 19:00 - 20:00 Uhr
 &nbsp;					| Donnerstags	| 19:00 - 20:00 Uhr
 Hochschulstraße 46 (im Keller)		| Montags 	| 19:00 - 19:30 Uhr
 &nbsp;					| Donnerstags	| 19:00 - 19:30 Uhr
