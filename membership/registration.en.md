@@ -1,4 +1,4 @@
-title: Membership
+title: Registration
 direct: true
 glyphicon: glyphicon-log-in
 rank: 1
