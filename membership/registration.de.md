@@ -1,4 +1,4 @@
-title: Mitgliedschaft
+title: Anmeldung
 direct: true
 glyphicon: glyphicon-log-in
 rank: 1
