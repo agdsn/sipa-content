@@ -1,5 +1,6 @@
 title: Protokolle
-glyphicon: glyphicon-comment
+glyphicon: glyphicon-briefcase
 direct: true
-link: /feature/imprint
 rank: 8
+
+Hier werden demnächst die Protokolle der Sitzungen in der Wundtstraße veröffentlicht.

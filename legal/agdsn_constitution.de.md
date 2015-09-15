@@ -1,5 +1,5 @@
 title: Satzung der AG DSN
 glyphicon: glyphicon-file
 direct: true
-link: /documents/legal/AG_DSN_Satzung_de.pdf
+link: ../documents/legal/constitution_2014.pdf
 rank: 1
