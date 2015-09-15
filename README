@@ -1,6 +1,6 @@
 How to write a page or news
 
-Create TWO new files in the folder which is associated with the menu under which your post should appear, usually named like this: pagename.de.md and pagename.en.md (e.g.: membership.de.md and membership.en.md).
+Create TWO new files in the folder which is associated with the menu item under which your post should appear, usually named like this: pagename.de.md and pagename.en.md (e.g.: membership.de.md and membership.en.md).
 
 For 'News' please use the naming scheme YEAR-MONTH-DAY-GERMANKEYWORD.de.md and YEAR-MONTH-DAY-ENGLISHKEYWORD.en.md. (E.g. 2015-03-09-new_website.de.md and 2015-03-09-new_website.en.md, according to ISO-8601.)
 The KEYWORD is going to be the link to this file.(E.g. membership.de.md in /connect ->/connect/membership.) 
