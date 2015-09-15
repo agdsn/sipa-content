@@ -31,5 +31,5 @@ We would be very glad to welcome you in our team. Just come to our office hours 
 
 ##### Division meeting
 * Wundtstraße: Wednesdays, 8:30 pm, at Wundtstraße 5
-* Hochschulstraße: Mittwochs, 8:00 pm, at Hochschulstraße 46 (basement)
+* Hochschulstraße: Wednesdays, 8:00 pm, at Hochschulstraße 46 (basement)
 * Zeunerstraße, Borsbergstraße, Gerokstraße: as announced
