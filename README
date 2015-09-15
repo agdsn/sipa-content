@@ -1,37 +1,34 @@
 How to write a page or news
 
-Create TWO new file in the Folder of the category your page belongs to or in to news folder,
-named: pagename.de.md and pagename.en.md (e.g.: membership.de.md and membership.en.md).
-For News just PLEASE take the Nameing Scheme YEAR-MONTH-DAY-ENGLISHKEYWORD.de.md and
-YEAR-MONTH-DAY-ENGLISHKEYWORD.en.md ! (e.g. 2015-03-09-new_website.de.md and
-2015-03-09-new_website.en.md)
-The pagename-part is the link to this file.(e.g. membership.de.md in connect ->
-/connect/membership) 
+Create TWO new files in the Folder of the category your page belongs to or in to news folder, named: pagename.de.md and pagename.en.md (e.g.: membership.de.md and membership.en.md).
 
-The Meta part looks like this and ends with the first blank line
+For News please use the naming scheme YEAR-MONTH-DAY-GERMANKEYWORD.de.md and YEAR-MONTH-DAY-ENGLISHKEYWORD.en.md. (E.g. 2015-03-09-new_website.de.md and 2015-03-09-new_website.en.md, according to ISO-8601.)
+The KEYWORD is going to be the link to this file.(E.g. membership.de.md in /connect ->/connect/membership.) 
+
+You can specify meta-information like this:
 key: value
 
 The following keys should exist:
 title: Title of page in the appropriate language
-author: The Editor of the most content..
-date: When it was written Syntax: YEAR-MONTH-DATE  (2010-10-22)
+author: The editor/writer of the content, if of interest.
+date: Given in ISO-8601 again, e.g.: 2015-12-31
 
-In Pages (no news) also:
-direct: true when the page should show up in the navbar  otherwise false
-glyphicon: when the page should show up choose a glyphicon form here
-            http://getbootstrap.com/components/#glyphicons (eg. glyphicon-log-in)
-
-In News also
+When writing a 'News', please include furthermore:
 time: time in 24h format (eg. 17:34)
-type: decide alert, warning, info, good or not writing this line (default)
+type: choose between alert, warning, info, good or default. 'default' will not display anything special.
 
-If you only want to make a direct link to fill in.
+When creating other pages (which are not in News), you should also include:
+direct: true if the page should show up in the navbar, otherwise false
+glyphicon: a glyphicon to use in the menu bar, choose from http://getbootstrap.com/components/#glyphicons (eg. glyphicon-log-in).
+
+
+If you only want to create a direct link to a third-party-site:
 title: title of the link
-link: absolut link 
-glyphicon: when the page should show up choose a glyphicon form here
+link: absolute link 
+glyphicon: as above
 
-Then leave one Line free and then Beginn your Markdown text.
-For absol
+You will have to leave one line free between meta-information and your markdown-content.
+
 Here is a good Tutorial for Markdown: http://markdowntutorial.com/
 
 
