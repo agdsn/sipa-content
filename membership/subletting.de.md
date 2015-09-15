@@ -3,7 +3,7 @@ direct: true
 glyphicon: glyphicon-retweet
 rank: 5
 
-Die Mitgliedschaft in der AG DSN ist an Personen gebunden, nicht an Zimmer. Daher muss jeder Untermieter selbst (Mitglied werden)[registration].
+Die Mitgliedschaft in der AG DSN ist an Personen gebunden, nicht an Zimmer. Daher muss jeder Untermieter selbst [Mitglied werden](registration).
 
 Wenn dein Zimmer untervermiet wird, musst Du uns Bescheid geben, damit wir Deinen Anschluss für die Zeit deiner Abwesenheit stillegen können. Nach Deiner Rückkehr genügt eine formlose E-Mail und Dein Anschluss wird reaktiviert.
 

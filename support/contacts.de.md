@@ -13,7 +13,7 @@ Bei Problemen mit deinem Netzwerkanschluss hast Du mehre Möglichkeiten:
 
 ### Sprechstunden
 
-Wenn du deine Mac-Adresse ändern willst, bringe bitte einen Lichtbildausweis mit.
+Wenn Du deine Mac-Adresse ändern willst, bringe bitte einen Lichtbildausweis mit.
 
  |
 --- | --- | ---
