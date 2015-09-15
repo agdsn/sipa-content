@@ -5,7 +5,7 @@ glyphicon: glyphicon-euro
 rank: 2
 
 Als Mitglied musst Du jedes Semester einen Semesterbeitrag auf unser Konto überweisen. Barzahlung ist nicht möglich.
-Der Beitrag wird zu Beginn eines jeden Semesters an der TU Dresden (1. Oktober bzw.  1. April) beziehungsweise nach deiner Anmeldung fällig. Du hast 31 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang gesperrt und es fällt eine Versäumnisgebühr von 2,50€ an.
+Der Beitrag wird zu Beginn eines jeden Semesters an der TU Dresden (1. Oktober bzw.  1. April) beziehungsweise nach deiner Anmeldung fällig. Du hast 31 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang gesperrt und es fällt unter Umständen eine Versäumnisgebühr an.
 
 #### Beitrag Borsbergstraße
  |
@@ -38,9 +38,9 @@ Ruhende Mitgliedschaft				| 1 €
 #### Beitrag Zeunerstraße
  |
 --- | ---
-Anmeldegebühr					| tba
+Anmeldegebühr					| ?
 Semesterbeitrag im Wohnheim			| 15 €
-Ruhende Mitgliedschaft				| tba
+Ruhende Mitgliedschaft				| ?
 
 #### Überweisungsdaten Wundtstraße und Zellescher Weg
  |
@@ -52,17 +52,17 @@ IBAN       | DE 61 850 503 00 3120 219 540
 BIC        | OSDD DE 81 XXX
 Verwendung | Nutzer-ID, Nachname, Vorname, Wohnheim/Zimmer
 
-Die Nutzer-ID kannst Du dem Datenblatt, das Dir einige Tage nach der Abgabe Deines Antrags in Deinen Postkasten zugestellt wurde, oder deiner [Benutzerseite](/usersuite) entnehmen.
+Deine Mitgliedsdaten kannst Du dem Datenblatt, das Dir einige Tage nach der Abgabe Deines Antrags in Deinen Postkasten zugestellt wurde, oder auf der [Benutzerseite](../../usersuite) finden.
 
 ### Überprüfung deines Finanzstatus
 
-Du kannst deinen Finanzstatus auf deiner [Benutzerseite](/usersuite) einsehen, indem du dich mit deinem Nutzername und Passwort einloggst.
+Du kannst deinen Finanzstatus auf deiner [Benutzerseite](../../usersuite) einsehen, indem du dich mit deinem Nutzername und Passwort einloggst.
 
 Die Überweisung wird nach Eingang bei uns durch ein rechnergestütztes System zugeordnet.
-Sollte Deine Finanzstatus sich nicht nach Ablauf von mindestens drei Werktagen geändert haben, so möchten wir Dich bitten, mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in die Sprechstunde zu kommen. 
+Sollte Dein Finanzstatus sich nicht nach Ablauf von mindestens drei Werktagen geändert haben, so möchten wir Dich bitten, mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in die Sprechstunde zu kommen. 
 
 ### Verwendung
 
 Die Beiträge der Mitglieder werden durch uns verwaltet und komplett reinvestiert. Die Administratoren arbeiten vollständig ehrenamtlich und erhalten keinen Lohn oder Aufwandsentschädigungen.
 
-Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft werden, genauso finanzieren sich die Server und Dienste, die wir Dir zur Verfügung stellen, über die Mitgliedsbeiträge. Für weitere Informationen schau doch einfach mal in der Sprechstunde vorbei.
+Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft werden, genauso finanzieren sich die Server und Dienste, die wir Dir zur Verfügung stellen, über die Mitgliedsbeiträge. Für weitere Informationen schau doch einfach mal in der Sprechstunde vorbei oder komm zu einer unserer Sitzungen.
