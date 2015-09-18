@@ -13,7 +13,6 @@ Der Beitrag wird zu Beginn eines jeden Semesters an der TU Dresden (1. Oktober b
 Anmeldegebühr					| 20 €
 Semesterbeitrag im Wohnheim			| 15 €
 Ruhende Mitgliedschaft				| 0 €
-Versäumnisgebühr				| 0 €
 
 #### Beitrag Gerokstraße
  |
@@ -21,7 +20,6 @@ Versäumnisgebühr				| 0 €
 Anmeldegebühr					| 10 €
 Semesterbeitrag im Wohnheim			| 10 €
 Ruhende Mitgliedschaft				| 0 €
-Versäumnisgebühr				| 0 €
 
 #### Beitrag Hochschulstraße
  |
@@ -29,7 +27,6 @@ Versäumnisgebühr				| 0 €
 Anmeldegebühr					| 0 €
 Semesterbeitrag im Wohnheim			| 20 €
 Ruhende Mitgliedschaft				| 0 €
-Versäumnisgebühr				| 0 €
 
 #### Beitrag Wundtstraße und Zellescher Weg
  |
@@ -37,7 +34,6 @@ Versäumnisgebühr				| 0 €
 Anmeldegebühr					| 0 €
 Semesterbeitrag im Wohnheim			| 20 €
 Ruhende Mitgliedschaft				| 1 €
-Versäumnisgebühr				| 2.50 €
 
 #### Beitrag Zeunerstraße
  |
@@ -45,7 +41,6 @@ Versäumnisgebühr				| 2.50 €
 Anmeldegebühr					| ?
 Semesterbeitrag im Wohnheim			| 15 €
 Ruhende Mitgliedschaft				| ?
-Versäumnisgebühr				| ?
 
 #### Überweisungsdaten Wundtstraße und Zellescher Weg
  |
