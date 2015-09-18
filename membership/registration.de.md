@@ -26,7 +26,7 @@ Bitte beschrifte Deinen Briefkasten, da ansonsten gegebenenfalls keine Zustellun
 Nun bist Du Mitglied der AG DSN.
 
 ### Aktive Mitgliedschaft
-Das Studentennetz wurde von Studenten wie Dir selbst geschaffen und wird von eben diesen ehrenamtlich verwaltet und erweitert. Wenn Du Interesse an unserer Arbeit hast, so schau doch einfach mal vorbei. Du musst keineswegs Informatik oder ähnliches studieren, um mitmachen zu können.
+Das Studentennetz wurde von Studenten wie Dir geschaffen und wird von eben diesen ehrenamtlich verwaltet und erweitert. Wenn Du Interesse an unserer Arbeit hast, so schau doch einfach mal vorbei. Du musst keineswegs Informatik oder ähnliches studieren, um mitmachen zu können.
 Es warten viele spannende Aufgaben in den Bereichen Administration von Netzwerk- und Rechentechnik, Softwareentwicklung und -wartung, Finanzen, Verwaltung, Recht und Öffentlichkeitsarbeit.
 Neben guten Referenzen für Deinen Lebenslauf erhältst Du so auch einen Einblick in spannende Technik, die man sonst eher nicht zu Gesicht bekommt. Wir würden uns freuen, auch Dich bald in unseren Reihen begrüßen zu können. Komm doch einfach zur Sprechstunde oder unserer wöchentlichen Sitzung vorbei:
 
