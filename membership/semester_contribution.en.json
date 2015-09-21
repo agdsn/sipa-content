@@ -1,0 +1,32 @@
+{
+    "title": "Financial data",
+    "keys": {
+        "beneficiary": "Beneficiary",
+        "iban": "IBAN",
+        "bank": "Bank",
+        "bic": "BIC",
+        "information": "Verwendungszweck"
+    },
+    "values": {
+        "wu": {
+            "beneficiary": "Studentenrat TUD - AG DSN",
+            "bank": "Ostsächsische Sparkasse Dresden",
+            "iban": "DE61850503003120219540",
+            "bic": "OSDD DE 81 XXX",
+            "information": "Nutzer-ID, Nachname, Vorname, Wohnheim / Zimmer#"
+        },
+        "gerok": {
+            "beneficiary": "Studentenrat TUD - AG DSN",
+            "bank": "Ostsächsische Sparkasse Dresden",
+            "iban": "?????",
+            "bic": "?????",
+            "information": "Nutzer-ID, Nachname, Vorname, Wohnheim / Zimmer#"
+        }
+    },
+    "mappings": {
+        "wu": "wu",
+        "zw": "wu",
+        "borsi": "wu",
+        "gerok": "gerok"
+    }
+}
