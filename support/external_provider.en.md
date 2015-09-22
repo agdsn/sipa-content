@@ -1,15 +1,13 @@
 title: External Provider
-author: peetcreative
 date: 2015-03-17
 direct: true
 glyphicon: glyphicon-list-alt
-
-### Connect to an external Provider
+rank: 4
 
 __Only__ for students living in __Wu1, Wu5, Wu7 und ZW 41c__:
 
-* If you want to connect to an external Internetprovider to your room, then the AGDSN has to enable your room.
+* If you want to connect to an external Internetprovider, the AG DSN has to prepare your room.
 Futher information and the corresponding form you will find here:
-[External Provider Form](/documents/telefonanschluss.pdf)
+[External Provider Form](../../documents/externalprovider.pdf)
 
-If you don´t life in one of the mentionted houses, you just could contact the technician. These houses  are allready patched.
+If you do __not__ life in one of the mentionted houses, you do not have to wait. You can contact the technician immediately.
