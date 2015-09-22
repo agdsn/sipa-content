@@ -11,23 +11,45 @@
         "wu": {
             "beneficiary": "Studentenrat TUD - AG DSN",
             "bank": "Ostsächsische Sparkasse Dresden",
-            "iban": "DE61850503003120219540",
+            "iban": "DE61 8505 0300 3120 2195 40",
             "bic": "OSDD DE 81 XXX",
-            "information": "Nutzer-ID, Nachname, Vorname, Wohnheim / Zimmer#"
+            "information": "Nutzer-ID, Nachname, Vorname, Wohnheim/Zimmer"
+        },
+        "hss": {
+            "beneficiary": "Studentenrat TUD - AG DSN",
+            "bank": "Ostsächsische Sparkasse Dresden",
+            "iban": "DE40 850 503 00 3120 2419 37",
+            "bic": "OSDD DE 81 XXX",
+            "information": "Benutzername,  Nachname, Vorname, Wohnheim/Zimmer"
         },
         "gerok": {
             "beneficiary": "Studentenrat TUD - AG DSN",
             "bank": "Ostsächsische Sparkasse Dresden",
-            "iban": "?????",
-            "bic": "?????",
-            "information": "Nutzer-ID, Nachname, Vorname, Wohnheim / Zimmer#"
+            "iban": "DE33 8505 0300 3120 2308 11",
+            "bic": "OSDD DE 81 XXX",
+            "information": "gerok38/anmeldung/(Vorname) (Nachname)/(Zimmernummer)"
+        },
+        "bor": {
+            "beneficiary": "Studentenrat TUD - AG DSN",
+            "bank": "Ostsächsische Sparkasse Dresden",
+            "iban": "DE71 8505 0300 3120 2418 64",
+            "bic": "OSDD DE 81 XXX",
+            "information": "Nutzer-ID, Nachname, Vorname, Wohnheim/Zimmer"
+        },
+        "zeu": {
+            "beneficiary": "Studentenrat TUD - AG DSN",
+            "bank": "Ostsächsische Sparkasse Dresden",
+            "iban": "DE66 8505 0300 3120 2638 76",
+            "bic": "OSDD DE 81 XXX",
+            "information": "Nutzernummer, Nachname, Vorname, Zimmernummer"
         }
     },
     "mappings": {
         "wu": "wu",
         "zw": "wu",
-        "borsi": "wu",
+        "borsi": "bor",
         "gerok": "gerok",
-        "localhost": "wu"
+        "hss": "hss",
+        "zeu": "zeu"
     }
 }
