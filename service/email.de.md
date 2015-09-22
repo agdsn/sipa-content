@@ -57,8 +57,8 @@ Dann fährst du fort mit der `Benutzerdefinierte Einstellungen`. Dort gibst du f
 
 &nbsp; | Hostname | Protokoll(Port) | SSL | Authentifizierung
 -|-|-|-|-
-Posteingang-Server | ? | ? | ? | ?
-Postausgang-Server | ? | ? | ? | ?
+Posteingang-Server | mail.wh10.tu-dresden.de | IMAP(143) | STARTTLS | Normal Password
+Postausgang-Server | mail.wh10.tu-dresden.de | SMTP(25) | ? |  Normal Password
 
 #### Gerokstraße
 
@@ -66,7 +66,7 @@ Postausgang-Server | ? | ? | ? | ?
 -|-|-|-|-
 Posteingang-Server | mail.wh17.tu-dresden.de | POP3(110)	|	  	| Normal Password
 Posteingang-Server | mail.wh17.tu-dresden.de | IMAP(993)	| SSL/TLS 	| Normal Password
-Postausgang-Server | mail.wh17.tu-dresden.de | SMTP(25) 	| STARTLS 	| Normal Password
+Postausgang-Server | mail.wh17.tu-dresden.de | SMTP(25) 	| STARTTLS 	| Normal Password
 
 #### Hochschulstraße
 
