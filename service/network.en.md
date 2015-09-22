@@ -1,4 +1,4 @@
-title: studentnetwork
+title: Studentnetwork
 date: 2015-03-17
 direct: true
 glyphicon: glyphicon-globe
