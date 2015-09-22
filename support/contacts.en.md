@@ -2,6 +2,7 @@ title: Contact
 date: 2015-03-13
 direct: True
 glyphicon: glyphicon-user
+rank: 1
 
 If you have problems with your network connection, you can:
 
