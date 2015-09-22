@@ -10,5 +10,3 @@ Verantwortlich für den Inhalt der Website:
 Studentenrat der Technischen Universität Dresden
 zu Händen AG DSN
 01062 Dresden
-
-Kontakt: support@agdsn.de
