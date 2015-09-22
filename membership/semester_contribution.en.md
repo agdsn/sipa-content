@@ -42,23 +42,11 @@ Registration fee					| tba
 Semester fee at the dormitory				| 15 €
 Membership without network access		| tba
 
-#### Account details Wundtstraße and Zellescher Weg
- |
----------- | -----
-Recipient  | Studentenrat der TU Dresden
-Accountnr. | 3120 219 540
-BLZ        | 850 503 00
-IBAN       | DE 61 850 503 00 3120 219 540
-BIC        | OSDD DE 81 XXX
-purpose	   | User-ID, surname, first name, dormitory and room
-
-You can find the User-ID on the data sheet, that will be delivered to your postbox a few days after you’ve submitted your application, or your [user page](/usersuite) on our website.
-
 ### Checking your payment status
 
 You can check your payment status on your [user page](/usersuite). You have to login with your username and password.
 When the payment has reached our bank account it will be allocated to your account by an automated software system.
-If your payment status didn´t update after three days, please come to during our [office hours](/contact) and  bring a bank account statement with you which mentions the transfer. 
+If your payment status didn´t update after three days, please come to during our [office hours](/contact) and  bring a bank account statement with you which mentions the transfer.
 
 ### Intended use
 

@@ -42,24 +42,12 @@ Anmeldegebühr					| ?
 Semesterbeitrag im Wohnheim			| 15 €
 Ruhende Mitgliedschaft				| ?
 
-#### Überweisungsdaten Wundtstraße und Zellescher Weg
- |
----------- | -----
-Empfänger  | Studentenrat der TU Dresden
-Kontonr.   | 3120 219 540
-BLZ        | 850 503 00
-IBAN       | DE 61 850 503 00 3120 219 540
-BIC        | OSDD DE 81 XXX
-Verwendung | Nutzer-ID, Nachname, Vorname, Wohnheim/Zimmer
-
-Deine Mitgliedsdaten kannst Du dem Datenblatt, das Dir einige Tage nach der Abgabe Deines Antrags in Deinen Postkasten zugestellt wurde, oder auf der [Benutzerseite](../../usersuite) finden.
-
 ### Überprüfung deines Finanzstatus
 
 Du kannst deinen Finanzstatus auf deiner [Benutzerseite](../../usersuite) einsehen, indem du dich mit deinem Nutzername und Passwort einloggst.
 
 Die Überweisung wird nach Eingang bei uns durch ein rechnergestütztes System zugeordnet.
-Sollte Dein Finanzstatus sich nicht nach Ablauf von mindestens drei Werktagen geändert haben, so möchten wir Dich bitten, mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in die Sprechstunde zu kommen. 
+Sollte Dein Finanzstatus sich nicht nach Ablauf von mindestens drei Werktagen geändert haben, so möchten wir Dich bitten, mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in die Sprechstunde zu kommen.
 
 ### Verwendung
 
