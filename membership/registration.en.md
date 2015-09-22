@@ -10,11 +10,11 @@ To become a member of the AG DSN - which is necessary to get access to the netwo
 
 1. Please read this and the instructions on the back of the following form thoroughly. Please choose the form according to your dormitory.
 
-    * [Application for Membership Borsbergstraße](/documents/antrag_bor_en.pdf)
-    * [Application for Membership Gerokstraße](/documents/antrag_ger_en.pdf)
-    * [Application for Membership Hochschulstraße](/documents/antrag_hss_en.pdf)
-    * [Application for Membership Wundtstraße and Zellescher Weg](/documents/antrag_wu_en.pdf)
-    * [Application for Membership Zeunerstraße](/documents/antrag_zeu_de.pdf)
+    * [Application for Membership Borsbergstraße](../../documents/antrag_bor_en.pdf)
+    * [Application for Membership Gerokstraße](../../documents/antrag_ger_en.pdf)
+    * [Application for Membership Hochschulstraße](../../documents/antrag_hss_en.pdf)
+    * [Application for Membership Wundtstraße and Zellescher Weg](../../documents/antrag_wu_en.pdf)
+    * [Application for Membership Zeunerstraße](../../documents/antrag_zeu_de.pdf)
 
 2. Fill out __two__ copies of this form and sign each twice. Please write readable.
 3. Put both copies in our mailbox or bring them to our office during office hours. Usually they will be processed there immediately and your access to the network will be enabled.
