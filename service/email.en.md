@@ -1,56 +1,94 @@
 title: Email
-author: peetcreative
 date: 2015-04-15
 direct: true
 glyphicon: glyphicon-envelope
-
-## e-mail-account
+rank: 3
 
 As a Member you have an e-mail-account in our System.
-Which looks like this: `<username>@wh2.tu-dresden.de`
+You do not have to use this account to receive our mails -  in the [Usersuite](../../usersuite), you can forward the mails to your existant private address.
 
-You can find the initial password on the access data sheet, which You got back connected to one filled form of your application.
+Your mail is of the form:
+
+* Borsbergstraße: `<username>@wh10.tu-dresden.de`
+* Gerokstraße: `<username>@wh17.tu-dresden.de`
+* Hochschulstraße: `<username>@wh12.tu-dresden.de`
+* Wundtstraße and Zellescher Weg: `<username>@wh2.tu-dresden.de`
+
+You can find the initial password on the access data sheet, which You have been handed out after your application
 You can always change it with the [usersuite](/usersuite).
 
-Important announcements and notifications regarding your account (high traffic, overdue payment) are sent via e-mail. 
+Important announcements and notifications regarding your account (high traffic, overdue payment) are sent via e-mail.
 We strongly recommend you to check your mails regularly or to setup an address for forwarding, if you do not intend to use your e-mail account with us.
 
-### Why should I use the AGDSN e-mail-account in addition?
+
+## Why You should use the AG DSN e-mail-account in addition
 
 Your mails and data of this e-mail-account are stored on servers located in dormitories in Dresden.
 
-In contrast to big American or German e-mailproviders, we are nonprofit. So we want for us and our members only the best according privacy and transparency.
+In contrast to big American or German providers, we do not work based on profit, which is why we try keeping
 
-### Receive e-mails
 
-#### Webmail
+## Receive e-mails
 
-You can simply receive e-mails using your browser via the [webmailfunction](https://www.wh2.tu-dresden.de/webmail).
-There You can also configure much further your e-mail-account.
+### Webmail
 
-#### e-mail-program #### 
+The simplest way to receive your mail is using the webmailer we provide:
 
-It's better to use a e-mail-program, because you've got the possibility of organize and encryption.
+* [Borsbergstraße](https://wh10.tu-dresden.de/mail/)
+* [Gerokstraße](https://wh17.tu-dresden.de/webmail/)
+* [Hochschulstraße](https://wh12.tu-dresden.de/roundcube/)
+* [Wundtstraße and Zellescher Weg](https://www.wh2.tu-dresden.de/webmail).
 
-In our FTP-section you can download  for example [Thunderbird](/pages/service/software#email). In the most Linux-distributions Thunderbird is already installed or can be installed by a packagemanager.
 
-Other e-mail-programs also for other platforms should work nearly the same.
+### Mailclient
+
+A better way of course is the usage of a mail client, as it provides more functionality to organize and encrypt your data.
+
+In our download-section you can download such programs, like for example [Thunderbird](software#email). In most Linux-distributions, Thunderbird is already installed or can be installed using a packagemanager.
+
+Anyway, every other mail program should work in a similiar way.
 
 First of all you have to add an Account.
 In Thunderbird: `File > New > Mail Account ...`
 
-Give your personal data, your e-mail-address `<username>@wh2.tu-dresden.de` and your password.
+Provide your personal data, your e-mail-address `<username>@whX.tu-dresden.de` and your password.
 
-Go to `Manual Config`. There type in the following serversettings.
+Now, go to `Manual Config`. There, type in the following serversettings.
 
- | Server hostname | Protocol(Port) | SSL | Authentication
+#### Borsbergstraße
+
+&nbsp; | Hostname | Protokoll(Port) | SSL | Authentifizierung
 -|-|-|-|-
-Incomming| mail.wh2.tu-dresden.de | IMAP(995) oder POP3(995) | SSL/TLS | Normal Passwort
-Outgoing | mail.wh2.tu-dresden.de | SMTP(465) | SSL/TLS | Normal Passwort
+Incoming | ? | ? | ? | ?
+Outgoing | ? | ? | ? | ?
 
-(standard) IMAP keeps all e-mails on the server. Because of this you can use multiple e-mail-programs, therefore multiple devices and the webmailfunction. E-mail-programs store the checked although for offline    Usage. 
+#### Gerokstraße
+
+&nbsp; | Hostname | Protokoll(Port) | SSL | Authentifizierung
+-|-|-|-|-
+Incoming | mail.wh17.tu-dresden.de | POP3(110)	|	  	| Normal Passwod
+Incoming | mail.wh17.tu-dresden.de | IMAP(993)	| SSL/TLS 	| Normal Password
+Outgoing | mail.wh17.tu-dresden.de | SMTP(25) 	| STARTLS 	| Normal Password
+
+#### Hochschulstraße
+
+&nbsp; | Hostname | Protokoll(Port) | SSL | Authentifizierung
+-|-|-|-|-
+Incoming | wh12.tu-dresden.de | ? | ? | ?
+Outgoing | wh12.tu-dresden.de | ? | ? | ?
+
+#### Wundtstraße und Zellescher Weg
+
+&nbsp; | Hostname | Protokoll(Port) | SSL | Authentifizierung
+-|-|-|-|-
+Incoming | mail.wh2.tu-dresden.de | IMAP(995) | SSL/TLS | Normal Password
+Incoming | mail.wh2.tu-dresden.de | POP3(995) | SSL/TLS | Normal Password
+Outgoing | mail.wh2.tu-dresden.de | SMTP(465) | SSL/TLS | Normal Password
+
+
+(Standard) IMAP keeps all e-mails on the server. Because of this you can use multiple e-mail-programs, and even multiple devices plus the web mailer.
 POP3 check the mails only once and then deletes them after this from the server. It's not possible to use multiple e-mail-programs.
 
 ### Forward e-mails
 
-You can simply setup an e-mail-forward with the [usersuite](/usersuite). Each e-mail send to `<username>@wh2.tu-dresden.de` will be automatically forwarded to this e-mail. 
+You can simply setup an e-mail-forward with the [usersuite](/usersuite). Each e-mail send to `<username>@wh2.tu-dresden.de` will be automatically forwarded to this e-mail.
