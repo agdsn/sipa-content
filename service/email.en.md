@@ -59,8 +59,8 @@ Now, go to `Manual Config`. There, type in the following serversettings.
 
 &nbsp; | Hostname | Protokoll(Port) | SSL | Authentifizierung
 -|-|-|-|-
-Incoming | ? | ? | ? | ?
-Outgoing | ? | ? | ? | ?
+Incoming | mail.wh10.tu-dresden.de | IMAP(143) | STARTTSL | Normal Password
+Outgoing | mail.wh10.tu-dresden.de | SMTP(25) | ? | Normal Password
 
 #### Gerokstraße
 
