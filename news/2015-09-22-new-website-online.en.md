@@ -3,7 +3,7 @@ author: toothstone
 date: 2015-09-22
 type: default
 
-This our all-new website.
+This is our all-new website.
 
 Inhabitants of Zellescher Weg, Borsberg-, Gerok- and Wundtstraße can log in here to see their latest traffic count and their account status. You can also change your MAC-address.
 
