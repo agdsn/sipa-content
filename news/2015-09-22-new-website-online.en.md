@@ -3,9 +3,10 @@ author: toothstone
 date: 2015-09-22
 type: default
 
-This our all-new website.
+As you probably can see: __Our all-new website went online!__
 
-Inhabitants of Zellescher Weg, Borsberg- and Wundtstraße can log in here to see their latest traffic count and their account status. You can also change your MAC-address.
+Let it be said that certain information in the help pages might be missing, we are working on completing them in the next days. Also, some functions may not have been implemented yet for certain dormitories.
 
+Besides the basic redesign, completely new features have been added. When logged in, you can change your _password_, _mail forward_ and *mac_address*, and you can contact us easily using the _contact form_.
 
-The code for this website is open source, you can find it at github.com/agdsn/sipa. All feedback is appreciated!
+Besides: The source code of this site is __freely available__! You can find it at [github](http://github.com/agdsn/sipa).
