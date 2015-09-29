@@ -3,8 +3,7 @@ date: 2015-03-17
 direct: true
 glyphicon: glyphicon-cloud
 rank: 2
-
-**Achtung**: Diese Anleitung gilt nur für Mitglieder der AG, die in der Wundtstraße oder dem Zelleschen Weg wohnen!
+event: [Borsbergstraße, Wundtstraße, Zellescher Weg]
 
 Nun, jeder kann bei uns eine eigene Homepage ins Netz stellen! Wichtig dabei ist, dass der Inhalt nicht rechtswidrig ist, sowie im Rahmen der guten Sitten bleibt, denn für den Inhalt Deiner Seite haftest Du alleine!
 

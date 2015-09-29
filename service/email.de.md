@@ -3,8 +3,9 @@ date: 2015-04-15
 direct: true
 glyphicon: glyphicon-envelope
 rank: 3
+event: [Borsbergstraße, Gerokstraße, Hochschulstraße, Wundtstraße, Zellescher Weg]
 
-In unserem System bekommst Du (außer in der Zeunerstraße) als Mitglied ein E-Mail-Konto.
+In unserem System bekommst Du als Mitglied ein E-Mail-Konto.
 Das Konto musst Du nicht nutzen, um von uns E-Mails zu bekommen - du kannst auch in der [Usersuite](../../usersuite) einen E-Mail-Forward einrichten, um die Nachrichten an Deine schon vorhandene Adresse geschickt zu bekommen.
 Diese E-Mail hat die Form:
 

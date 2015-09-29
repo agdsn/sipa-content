@@ -3,6 +3,7 @@ date: 2015-04-15
 direct: true
 glyphicon: glyphicon-envelope
 rank: 3
+event: [Borsbergstraße, Gerokstraße, Hochschulstraße, Wundtstraße, Zellescher Weg]
 
 As a Member you have an e-mail-account in our System.
 You do not have to use this account to receive our mails -  in the [Usersuite](../../usersuite), you can forward the mails to your existant private address.

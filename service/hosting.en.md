@@ -3,8 +3,7 @@ date: 2015-03-17
 direct: true
 glyphicon: glyphicon-cloud
 rank: 2
-
-**Attention**: This tutorial is valid for people living in the Wundtstraße or Zellescher Weg dormitories, only!
+event: [Borsbergstraße, Wundtstraße, Zellescher Weg]
 
 In these dormitories, you have the possibility to create your own website! Anyway, it is important that the content is not illegal and complies with good behaviour. Remember: You are completely responsible for the content of your website!
 
