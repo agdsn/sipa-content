@@ -3,6 +3,7 @@ author: Joshua Blöcker
 date: 2015-06-10
 time: 22:31
 type: default
+information: [Wundtstraße, Zellescher Weg]
 
 Liebe Mitglieder,
 

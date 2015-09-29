@@ -2,6 +2,7 @@ title: Nutzerversammlung
 author: Alexander Köhler
 date: 2015-07-08
 type: default
+event: [Zeunerstraße]
 
 Liebe Mitglieder,
 

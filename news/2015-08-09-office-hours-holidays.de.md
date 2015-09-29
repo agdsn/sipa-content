@@ -2,6 +2,7 @@ title: Büroöffnungszeiten während der Semesterferien
 author: Gerrit Hinz
 date: 2015-08-09
 type: default
+information: [Hochschulstraße]
 
 Liebe Mitglieder,
 

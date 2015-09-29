@@ -2,6 +2,7 @@ title: Netzausfall Gerokstraße
 date: 2015-06-06
 time: 21:46
 type: default
+outage: [Gerokstraße]
 
 Liebe Mitglieder,
 
