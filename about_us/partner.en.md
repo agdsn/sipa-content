@@ -1,4 +1,4 @@
-title: Partner
+title: Affiliates
 direct: true
 glyphicon: glyphicon-star
 rank: 3
