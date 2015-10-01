@@ -3,6 +3,7 @@ date: 2015-03-17
 direct: true
 glyphicon: glyphicon-list-alt
 rank: 4
+information: [Wundtstraße 1, Wundtstraße 5, Wundtstraße 7, Zellescher Weg 41c]
 
 __Only__ for students living in __Wu1, Wu5, Wu7 und ZW 41c__:
 
