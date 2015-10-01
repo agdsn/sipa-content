@@ -8,7 +8,7 @@ In der AG DSN existiert eine Traffic-Beschränkung. Jedem Mitglied mit Netzansch
 Dabei ist es möglich, den nicht verbrauchten Traffic bis zu einem Maximum von 63 GiB anzusparen. Diese Maximalzahl ergibt sich aus drei Wochen Ansparfrist (3x21).
 Jedes neue Mitglied beginnt mit einem Kontingent von 21 GiB.
 
-Euren aktuellen Status könnt ihr auf der Trafficseite zu jeder Zeit abrufen. Weiterhin gibt es für einige Browser bei uns im Software-Bereich ein Plugin, welches den Trafficstand unauffällig anzeigt.
+Euren aktuellen Status könnt ihr auf der Trafficseite zu jeder Zeit abrufen. Weiterhin gibt es für einige Browser bei uns im [Software-Bereich](../service/software) ein Plugin, welches den Trafficstand unauffällig anzeigt.
 
 Wird mehr als die erlaubte Menge Datenverkehr verursacht, wird der Zugang solange abgeschaltet, bis das Guthaben wieder positiv ist. Dies wird einmal täglich geprüft.
 
@@ -47,4 +47,3 @@ Anders ist das jedoch bei Peer-to-Peer-Anwendungen wie EDonkey, Kazaa, BitTorren
 * die IP weiterzuleiten, damit andere Rechner ebenfalls Anfragen stellen können.
 
 Somit können durch das einmalige Verwenden solcher Programme noch Stunden danach Anfragen ankommen, unabhängig davon, ob der entsprechende Rechner aus ist oder nicht. Solche Anfragen werden natürlich berechnet und können mehrere Dutzend Megabyte in wenigen Stunden ausmachen.
-

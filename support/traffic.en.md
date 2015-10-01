@@ -8,7 +8,7 @@ Our network underlies a traffic limit. Every member having internet access is pr
 However, it is possible to save credit up to 63 GiB. This value results from three weeks of saving.
 The “starting contingent” is 21 GiB.
 
-You can view your current traffic status on the traffic page. Additionally, there are plugins available in the [Software](../services/software) section, showing the traffic status directly in the browser.
+You can view your current traffic status on the traffic page. Additionally, there are plugins available in the [Software](../service/software) section, showing the traffic status directly in the browser.
 
 If you consumed more than the allowed amount, your access is blocked until your credit is greater than zero again. This is checked once a day.
 
