@@ -1,12 +1,12 @@
 title: Teaching
 date: 2015-10-01
 direct: true
-glyphicon: glyphicon-blackboard
+glyphicon: glyphicon-book
 rank: 5
 
 AG DSN offers as _Approved Academic Partner_ of the [Linux Professional Institute](https://www.lpice.eu/en/home/) courses around the topic Linux. 
 
-#### Linux Essential
+### Linux Essential
 The purpose of the Linux Essentials course is to teach the basic knowledge required to understand and use a Linux Operating System. No specific pre knowledge is necessary. This event is carried out in cooperation with the [chair of materials science and nanotechnology](https://nano.tu-dresden.de) (IfWW, TU Dresden) and the [Institute of Radiation Physics](https://www.hzdr.de/db/Cms?pNid=132&pLang=en) (Helmholtz-Zentrum Dresden-Rossendorf).
 
 In the winter semester 15/16 the course is hold in German. But you can participate in the consultation and examination (in English). 
@@ -36,4 +36,4 @@ Please add your Name and eMail-Address in the [regestration form](https://docs.g
 
 **Material**
 
-The textbook for the course is [Linux Essentials -The LPI Introductory Programme](https://shop-download.linupfront.de/cc/lxes-en-manual-cc.pdf) from [LINUP FRONT](http://shop.linupfront.de/) that is available under a »Creative Commons-BY-NC-ND 3.0 DE«-license. 
+The textbook for the course is [Linux Essentials - The LPI Introductory Programme](https://shop-download.linupfront.de/cc/lxes-en-manual-cc.pdf) from [LINUP FRONT](http://shop.linupfront.de/) that is available under a »Creative Commons-BY-NC-ND 3.0 DE«-license. 
