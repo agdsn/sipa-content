@@ -44,9 +44,9 @@ Membership without network access		| tba
 
 ### Checking your payment status
 
-You can check your payment status on your [user page](/usersuite). You have to login with your username and password.
+You can check your payment status on your [user page](../../usersuite). You have to login with your username and password.
 When the payment has reached our bank account it will be allocated to your account by an automated software system.
-If your payment status didn´t update after three days, please come to during our [office hours](/contact) and  bring a bank account statement with you which mentions the transfer.
+If your payment status didn´t update after three days, please come to during our [office hours](../../contact) and  bring a bank account statement with you which mentions the transfer.
 
 ### Intended use
 
