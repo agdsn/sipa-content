@@ -35,7 +35,7 @@ In contrast to big American or German providers, we do not work based on profit,
 
 The simplest way to receive your mail is using the webmailer we provide:
 
-* [Borsbergstraße](https://wh10.tu-dresden.de/mail/)
+* [Borsbergstraße](https://mail.wh10.tu-dresden.de)
 * [Gerokstraße](https://wh17.tu-dresden.de/webmail/)
 * [Hochschulstraße](https://wh12.tu-dresden.de/roundcube/)
 * [Wundtstraße and Zellescher Weg](https://www.wh2.tu-dresden.de/webmail).

@@ -32,7 +32,7 @@ Im Gegensatz zu den großen amerikanischen als auch deutschen E-Mailanbietern si
 
 Am einfachsten kannst Du Mails im Browser abrufen über die Webmailfunktion:
 
-* [Borsbergstraße](https://wh10.tu-dresden.de/mail/)
+* [Borsbergstraße](https://mail.wh10.tu-dresden.de)
 * [Gerokstraße](https://wh17.tu-dresden.de/webmail/)
 * [Hochschulstraße](https://wh12.tu-dresden.de/roundcube/)
 * [Wundtstraße und Zellescher Weg](https://www.wh2.tu-dresden.de/webmail).
