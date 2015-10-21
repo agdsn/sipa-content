@@ -82,9 +82,9 @@ Outgoing | wh12.tu-dresden.de | ? | ? | ?
 
 &nbsp; | Hostname | Protokoll(Port) | SSL | Authentifizierung
 -|-|-|-|-
-Incoming | mail.wh2.tu-dresden.de | IMAP(993) | SSL/TLS | Normal Password
-Incoming | mail.wh2.tu-dresden.de | POP3(995) | SSL/TLS | Normal Password
-Outgoing | mail.wh2.tu-dresden.de | SMTP(465) | SSL/TLS | Normal Password
+Incoming | mail.wh2.tu-dresden.de | IMAP(993) | SSL/TLS | Normal Password | Auth: Passwort
+Incoming | mail.wh2.tu-dresden.de | POP3(995) | SSL/TLS | Normal Password |
+Outgoing | mail.wh2.tu-dresden.de | SMTP(587) | STARTTLS | Normal Password | Auth: Plain
 
 
 (Standard) IMAP keeps all e-mails on the server. Because of this you can use multiple e-mail-programs, and even multiple devices plus the web mailer.
