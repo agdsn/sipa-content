@@ -80,9 +80,9 @@ Postausgang-Server | wh12.tu-dresden.de | ? | ? | ?
 
 &nbsp; | Hostname | Protokoll(Port) | SSL | Authentifizierung
 -|-|-|-|-
-Posteingang-Server | mail.wh2.tu-dresden.de | IMAP(995) | SSL/TLS | Normal Password
-Posteingang-Server | mail.wh2.tu-dresden.de | POP3(995) | SSL/TLS | Normal Password
-Postausgang-Server | mail.wh2.tu-dresden.de | SMTP(465) | SSL/TLS | Normal Password
+Posteingang-Server | mail.wh2.tu-dresden.de | IMAP(993) | SSL/TLS | Normal Password | Auth: Password
+Posteingang-Server | mail.wh2.tu-dresden.de | POP3(995) | SSL/TLS | Normal Password |
+Postausgang-Server | mail.wh2.tu-dresden.de | SMTP(587) | STARTTLS | Normal Password | Auth: Plain
 
 (Standard) IMAP belässt alle Mails auf dem Server. Das ermöglicht die Nutzung mehreren E-Mailprogrammen, daher mehreren Geräten und der Webmailfunktion.
 POP3 ruft einmal Mails vom Server ab und löscht sie dann auf dem Server. Es ist nicht möglich mehrere E-Mailprogramme zu benutzen.
