@@ -236,7 +236,7 @@ Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft
           <tbody>
             <tr>
               <td>Anmeldegebühr</td>
-              <td>? €</td>
+              <td>5 €</td>
             </tr>
             <tr>
               <td>Semesterbeitrag (regulär)</td>
@@ -244,11 +244,11 @@ Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft
             </tr>
             <tr>
               <td>Semesterbeitrag (ruhend)</td>
-              <td>? €</td>
+              <td>–</td>
             </tr>
             <tr>
               <td>Versäumnisgebühr</td>
-              <td>?</td>
+              <td>–</td>
             </tr>
           </tbody>
         </table>

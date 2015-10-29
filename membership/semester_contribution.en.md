@@ -236,7 +236,7 @@ The network has to be maintained, we need spare parts for the servers and other 
           <tbody>
             <tr>
               <td>Registration Fee</td>
-              <td>? €</td>
+              <td>5 €</td>
             </tr>
             <tr>
               <td>Semester Contribution (regular)</td>
@@ -244,11 +244,11 @@ The network has to be maintained, we need spare parts for the servers and other 
             </tr>
             <tr>
               <td>Semester Contribution (inactive members)</td>
-              <td>? €</td>
+              <td>–</td>
             </tr>
             <tr>
               <td>Late Fee</td>
-              <td>?</td>
+              <td>–</td>
             </tr>
           </tbody>
         </table>
