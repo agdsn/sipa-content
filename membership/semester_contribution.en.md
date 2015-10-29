@@ -8,12 +8,9 @@ As a member, you have to transfer a semester contribution each semester to our b
 Paying cash is not possible.
 At some sites an additional registration fee is due.
 The contribution is due at the beginning of each semester of TU Dresden (1st of October or 1st of April respectively). You have 31 days to pay, otherwise your access will be suspended and a overdue fee could be charged.
-
-## Checking your payment status
-
-You can check your payment status on your [user page](../../usersuite). You have to login with your username and password.
 When the payment has reached our bank account it will be allocated to your account by an automated software system.
-If your payment status didn´t update after three days, please come to during our [office hours](../../contact) and  bring a bank account statement with you which mentions the transfer.
+
+If you're blocked although you have paid, please come to our offices during our [office hours](../../contact) and bring a bank account statement with you which mentions the transfer.
 
 ## Intended use
 

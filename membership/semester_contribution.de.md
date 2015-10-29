@@ -9,12 +9,8 @@ Barzahlung ist nicht möglich.
 An manchen Standorten fällt zusätzlich eine einmalige Anmeldegebühr an. 
 Der Beitrag wird zu Beginn eines jeden Semesters an der TU Dresden (1. Oktober bzw.  1. April) beziehungsweise nach deiner Anmeldung fällig. Du hast 31 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang gesperrt und es fällt unter Umständen eine Versäumnisgebühr an.
 
-## Überprüfung deines Finanzstatus
-
-Du kannst deinen Finanzstatus auf deiner [Benutzerseite](../../usersuite) einsehen, indem du dich mit deinem Nutzername und Passwort einloggst.
-
-Die Überweisung wird nach Eingang bei uns durch ein rechnergestütztes System zugeordnet.
-Sollte Dein Finanzstatus sich nicht nach Ablauf von mindestens drei Werktagen geändert haben, so möchten wir Dich bitten, mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in die Sprechstunde zu kommen.
+Die Überweisung wird nach Eingang bei uns automatisch zugeordnet.
+Solltest du wegen Bezahlung gesperrt werden, obwohl du bezahlt hast, so komme bitte mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in unsere Sprechstunde.
 
 ## Verwendung
 
