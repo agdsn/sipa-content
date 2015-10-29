@@ -19,7 +19,7 @@ To become a member of the AG DSN - which is necessary to get access to the netwo
 2. Fill out __two__ copies of this form and sign each twice. Please write readable.
 3. Put both copies in our mailbox or bring them to our office during office hours. Usually they will be processed there immediately and your access to the network will be enabled.
 4. Usually You should receive one copy and a data sheet about one week after submitting Your application. Your access should work by then. Please label Your mailbox properly, otherwise we will not be able to deliver it and have to suspend your access to the network.
-5. Transfer the [semester contribution](../../membership/semester_contribution) within 31 days to our local bank account.
+5. Transfer [the semester contribution and a potential registration fee](../../membership/semester_contribution) within 31 days to our local bank account.
 
 Now you are a member of the AG DSN.
 

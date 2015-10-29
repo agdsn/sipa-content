@@ -20,7 +20,7 @@ Um Mitglied in der AG DSN zu werden und damit unter anderem Zugang zum Studenten
 3. Wirf beide Exemplare in unseren Briefkasten oder gib sie zu den Sprechzeiten im Büro ab. Dort werden die Anträge üblicherweise sofort bearbeitet und dein Zugang freigeschalten.
 4. Etwa eine Woche nach der Abgabe erhältst Du ein Exemplar zusammen mit einem Datenblatt zurück. Spätestens jetzt sollte Dein Zugang funktionieren.
 Bitte beschrifte Deinen Briefkasten, da ansonsten gegebenenfalls keine Zustellung erfolgen kann und wir Deinen Zugang sperren müssen.
-5. Überweise den [Semesterbeitrag](semester_contribution) innerhalb von 31 Tagen auf unser jeweiliges Konto.
+5. Überweise [den Semesterbeitrag und eine eventuelle Anmeldegebühr](semester_contribution) innerhalb von 31 Tagen auf unser jeweiliges Konto.
 
 Nun bist Du Mitglied der AG DSN.
 

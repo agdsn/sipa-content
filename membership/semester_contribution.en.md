@@ -4,52 +4,273 @@ direct: True
 glyphicon: glyphicon-euro
 rank: 2
 
-As a member, you have to transfer a semester contribution each semester to our bank account. Paying cash is not possible.
+As a member, you have to transfer a semester contribution each semester to our bank account.
+Paying cash is not possible.
+At some sites an additional registration fee is due.
 The contribution is due at the beginning of each semester of TU Dresden (1st of October or 1st of April respectively). You have 31 days to pay, otherwise your access will be suspended and a overdue fee could be charged.
 
-#### Contribution Borsbergstraße
- |
---- | ---
-Registration fee					| 20 €
-Semester fee at the dormitory			| 15 €
-Membership without network access		| 0 €
-
-#### Contribution Gerokstraße
- |
---- | ---
-Registration fee					| 10 €
-Semester fee at the dormitory				| 10 €
-Membership without network access		| 0 €
-
-#### Contribution Hochschulstraße
- |
---- | ---
-Registration fee					| 0 €
-Semester fee at the dormitory				| 20 €
-Membership without network access		| 0 €
-
-#### Contribution Wundtstraße and Zellescher Weg
- |
---- | ---
-Registration fee					| 0 €
-Semester fee at the dormitory				| 20 €
-Membership without network access		| 1 €
-
-#### Contribution Zeunerstraße
- |
---- | ---
-Registration fee					| tba
-Semester fee at the dormitory				| 15 €
-Membership without network access		| tba
-
-### Checking your payment status
+## Checking your payment status
 
 You can check your payment status on your [user page](../../usersuite). You have to login with your username and password.
 When the payment has reached our bank account it will be allocated to your account by an automated software system.
 If your payment status didn´t update after three days, please come to during our [office hours](../../contact) and  bring a bank account statement with you which mentions the transfer.
 
-### Intended use
+## Intended use
 
 The contributions of all members are administrated by us and will be completely reinvested. The administrators are working completely voluntarily and do not get any money for doing their job.
 
 The network has to be maintained, we need spare parts for the servers and other network hardware so that we can ensure that every service is working. If you are having any further questions, just feel free to come by.
+
+## Payment details
+
+<div>
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation"><a href="#borsbergstrasse"
+    aria-controls="borsbergstrasse" role="tab" data-toggle="tab">Borsbergstraße</a>
+    </li>
+    <li role="presentation"><a href="#gerokstrasse"
+    aria-controls="gerokstrasse" role="tab" data-toggle="tab">Gerokstraße</a>
+    </li>
+    <li role="presentation"><a href="#hochschulstrasse"
+    aria-controls="hochschulstrasse" role="tab" data-toggle="tab">Hochschulstraße</a>
+    </li>
+    <li role="presentation"><a href="#wundtstrasse"
+    aria-controls="wundtstrasse" role="tab" data-toggle="tab">Wundtstraße/Zellscher Weg</a>
+    </li>
+    <li role="presentation"><a href="#zeunerstrasse"
+    aria-controls="zeunerstrasse" role="tab" data-toggle="tab">Zeunerstraße</a>
+    </li>
+  </ul>
+  <div class="tab-content">
+    <div class="tab-pane row" role="tabpanel" id="borsbergstrasse">
+      <div class="col-sm-6">
+        <h3>Contributions and Fees</h3>
+        <table class="table">
+          <thead>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Registration Fee</td>
+              <td>20 €</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (regular)</td>
+              <td>15 €</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (inactive members)</td>
+              <td>–</td>
+            </tr>
+            <tr>
+              <td>Late Fee</td>
+              <td>–</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-sm-6">
+        <h3>Payment Information</h3>
+        <dl>
+          <dt>Beneficiary</dt>
+          <dd>Studentenrat TUD - AG DSN</dd>
+          <dt>Bank</dt>
+          <dd>Ostsächsische Sparkasse Dresden</dd>
+          <dt>IBAN</dt>
+          <dd>DE71 8505 0300 3120 2418 64</dd>
+          <dt>BIC</dt>
+          <dd>OSDD DE 81 XXX</dd>
+          <dt>Reference</dt>
+          <dd>User-ID, Last name, First name, Building/Room</dd>
+        </dl>
+      </div>
+    </div>
+    <div class="tab-pane row" role="tabpanel" id="gerokstrasse">
+      <div class="col-sm-6">
+        <h3>Contributions and Fees</h3>
+        <table class="table">
+          <thead>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Registration Fee</td>
+              <td>10 €</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (regular)</td>
+              <td>10 €</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (inactive members)</td>
+              <td>–</td>
+            </tr>
+            <tr>
+              <td>Late Fee</td>
+              <td>–</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-sm-6">
+        <h3>Payment Information</h3>
+        <dl>
+          <dt>Beneficiary</dt>
+          <dd>Studentenrat TUD - AG DSN</dd>
+          <dt>Bank</dt>
+          <dd>Ostsächsische Sparkasse Dresden</dd>
+          <dt>IBAN</dt>
+          <dd>DE33 8505 0300 3120 2308 11</dd>
+          <dt>BIC</dt>
+          <dd>OSDD DE 81 XXX</dd>
+          <dt>Reference</dt>
+          <dd>gerok38/anmeldung/(First name) (Last name)/(Room number)</dd>
+        </dl>
+      </div>
+    </div>
+    <div class="tab-pane row" role="tabpanel" id="hochschulstrasse">
+      <div class="col-sm-6">
+        <h3>Contributions and Fees</h3>
+        <table class="table">
+          <thead>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Registration Fee</td>
+              <td>–</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (regular)</td>
+              <td>20 €</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (inactive members)</td>
+              <td>–</td>
+            </tr>
+            <tr>
+              <td>Late Fee</td>
+              <td>–</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-sm-6">
+        <h3>Payment Information</h3>
+        <dl>
+          <dt>Beneficiary</dt>
+          <dd>Studentenrat TUD - AG DSN</dd>
+          <dt>Bank</dt>
+          <dd>Ostsächsische Sparkasse Dresden</dd>
+          <dt>IBAN</dt>
+          <dd>DE40 8505 0300 3120 2419 37</dd>
+          <dt>BIC</dt>
+          <dd>OSDD DE 81 XXX</dd>
+          <dt>Reference</dt>
+          <dd>User name,  Last name, First name, Building/Room</dd>
+        </dl>
+      </div>
+    </div>
+    <div class="tab-pane row" role="tabpanel" id="wundtstrasse">
+      <div class="col-sm-6">
+        <h3>Contributions and Fees</h3>
+        <table class="table">
+          <thead>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Registration Fee</td>
+              <td>–</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (regular)</td>
+              <td>20 €</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (inactive members)</td>
+              <td>1 €</td>
+            </tr>
+            <tr>
+              <td>Late Fee</td>
+              <td>2.50 €</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-sm-6">
+        <h3>Payment Information</h3>
+        <dl>
+          <dt>Beneficiary</dt>
+          <dd>Studentenrat TUD - AG DSN</dd>
+          <dt>Bank</dt>
+          <dd>Ostsächsische Sparkasse Dresden</dd>
+          <dt>IBAN</dt>
+          <dd>DE61 8505 0300 3120 2195 40</dd>
+          <dt>BIC</dt>
+          <dd>OSDD DE 81 XXX</dd>
+          <dt>Reference</dt>
+          <dd>User-ID, Last name, First name, Building/Room</dd>
+        </dl>
+      </div>
+    </div>
+    <div class="tab-pane row" role="tabpanel" id="zeunerstrasse">
+      <div class="col-sm-6">
+        <h3>Contributions and Fees</h3>
+        <table class="table">
+          <thead>
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Registration Fee</td>
+              <td>? €</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (regular)</td>
+              <td>15 €</td>
+            </tr>
+            <tr>
+              <td>Semester Contribution (inactive members)</td>
+              <td>? €</td>
+            </tr>
+            <tr>
+              <td>Late Fee</td>
+              <td>?</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-sm-6">
+        <h3>Payment Information</h3>
+        <dl>
+          <dt>Beneficiary</dt>
+          <dd>Studentenrat TUD - AG DSN</dd>
+          <dt>Bank</dt>
+          <dd>Ostsächsische Sparkasse Dresden</dd>
+          <dt>IBAN</dt>
+          <dd>DE66 8505 0300 3120 2638 76</dd>
+          <dt>BIC</dt>
+          <dd>OSDD DE 81 XXX</dd>
+          <dt>Reference</dt>
+          <dd>User number, Last name, First name, Room number</dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+</div>
