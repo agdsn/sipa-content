@@ -1,4 +1,8 @@
-title: Sektionsversammlung date: 2015-10-30 time: 12:00 type: default outage: [Hochschulstr]
+title: Sektionsversammlung
+date: 2015-10-30
+time: 12:00
+type: default
+outage: [Hochschulstr]
 
 Liebe Mitglieder,
 
