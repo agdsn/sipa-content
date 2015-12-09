@@ -1,6 +1,6 @@
 title: Uplink unavailable
 author: Friedrich Zahn
-date: 2015-12-10T00:27
+date: 2015-12-10
 type: warning
 outage: [Borsbergstraße, Gerokstraße, Hochschulstraße, Wundtstraße, Zellescher Weg, Zeunerstraße]
 
