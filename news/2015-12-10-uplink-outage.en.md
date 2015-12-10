@@ -5,3 +5,5 @@ type: warning
 outage: [Borsbergstraße, Gerokstraße, Hochschulstraße, Wundtstraße, Zellescher Weg, Zeunerstraße]
 
 It seems like the university's connection to the internet is unavailable at the moment, which means only local services are available right now. We are investigating and will try to keep you updated.
+
+Update: Connectivity returned 2015-12-10T01:25, everything should be back to normal by now.
