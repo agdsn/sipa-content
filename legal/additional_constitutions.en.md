@@ -9,5 +9,5 @@ Additionally to the general constitution of the AG DSN, the following constituti
 * [Borsbergstraße](../../documents/legal/bor/constitution_2014.pdf)
 * [Gerokstraße](../../documents/legal/ger/constitution_de_2015.pdf)
 * [Hochschulstraße](../../documents/legal/hss/constitution_2015.pdf)
-* [Wundtstraße und Zellescher Weg](../../documents/legal/wu/constitution_2010_de.pdf)
+* [Wundtstraße und Zellescher Weg](../../documents/legal/wu/constitution_2015_de.pdf)
 * [Zeunerstraße](../../documents/legal/zeu/constitution_2006.pdf)
