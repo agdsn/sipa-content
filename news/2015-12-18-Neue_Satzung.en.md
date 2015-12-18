@@ -1,4 +1,4 @@
-title: Neue Satzung
+title: New Constitution
 author: Jan Braje
 date: 2015-12-18
 time: 19:00
