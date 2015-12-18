@@ -1,4 +1,4 @@
-title: Neue Satzung der Sektion Wundtstraße
+title: New constitution of division Wundtstraße
 event: [Wundtstraße, Zellescher Weg]
 author: Lukas Juhrich
 date: 2015-12-17
