@@ -14,6 +14,8 @@ Vice President		| Alexander Kropp
 Treasurer		| Denni Keller
 Public Relations Manager| Jan Lukas Braje
 
+mail to [Executive Board](vorstand@agdsn.de)
+
 ### Representatives
  |
 --- | ---
