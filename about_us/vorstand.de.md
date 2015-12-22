@@ -1,4 +1,4 @@
- title: Vorstand
+title: Vorstand
 direct: true
 glyphicon: glyphicon-bullhorn
 rank: 3
@@ -13,8 +13,6 @@ Vorstand		| Sebastian Schrader
 Stellv. Vorstand	| Alexander Kropp
 Schatzmeister		| Denni Keller
 Öffentlichkeitsarbeit	| Jan Lukas Braje
-
-Mail an den [Vorstand](vorstand@agdsn.de)
 
 ### Beauftragte
  |
