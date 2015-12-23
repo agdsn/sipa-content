@@ -14,7 +14,7 @@ Stellv. Vorstand	| Alexander Kropp
 Schatzmeister		| Denni Keller
 Öffentlichkeitsarbeit	| Jan Lukas Braje
 
-Mail an den [Vorstand](vorstand@agdsn.de)
+Mail an den [Vorstand](mailto:vorstand@agdsn.de)
 
 ### Beauftragte
  |
