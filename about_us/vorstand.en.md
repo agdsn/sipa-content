@@ -4,7 +4,7 @@ glyphicon: glyphicon-bullhorn
 rank: 2
 
 
-__Important:__ Only contact board members or representatives if the matter really concerns them! Problems with your membership or our services for members __do not__ concern the board members, but the [support](../../contact)!
+__Important:__ Only contact board members or representatives if the matter really concerns them! Problems with your membership or our services for members __do not__ concern the board members, but the [support](/contact)!
 
 ### Executive board members
  |

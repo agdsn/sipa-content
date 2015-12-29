@@ -10,7 +10,7 @@ At some sites an additional registration fee is due.
 The contribution is due at the beginning of each semester of TU Dresden (1st of October or 1st of April respectively). You have 31 days to pay, otherwise your access will be suspended and a overdue fee could be charged.
 When the payment has reached our bank account it will be allocated to your account by an automated software system.
 
-If you're blocked although you have paid, please come to our offices during our [office hours](../../contact) and bring a bank account statement with you which mentions the transfer.
+If you're blocked although you have paid, please come to our offices during our [office hours](/contact) and bring a bank account statement with you which mentions the transfer.
 
 ## Intended use
 

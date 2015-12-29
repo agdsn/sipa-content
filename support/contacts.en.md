@@ -10,7 +10,7 @@ If you have problems with your network connection, you can:
 * Write us a mail. You can find the address on your application form and after you loged in.
 * Meet your dormitory administrator. A list of administrators living
 in your dormitory is usually available in the ground floor.
-* use the [contact form](../../contact)
+* use the [contact form](/contact)
 
 
 ## Office Hours
