@@ -10,11 +10,11 @@ Um Mitglied in der AG DSN zu werden und damit unter anderem Zugang zum Studenten
 
 1. Lies dir diese und die Hinweise auf der Rückseite des folgenden Formulars gründlich durch. Bitte wähle das Formular entsprechend deines Wohnheims.
 
-    * [Mitgliedschaftsantrag Borsbergstraße](../../documents/antrag_bor_de.pdf)
-    * [Mitgliedschaftsantrag Gerokstraße](../../documents/antrag_ger_de.pdf)
-    * [Mitgliedschaftsantrag Hochschulstraße](../../documents/antrag_hss_de.pdf)
-    * [Mitgliedschaftsantrag Wundtstraße und Zellescher Weg](../../documents/antrag_wu_de.pdf)
-    * [Mitgliedschaftsantrag Zeunerstraße](../../documents/antrag_zeu_de.pdf)
+    * [Mitgliedschaftsantrag Borsbergstraße](/documents/antrag_bor_de.pdf)
+    * [Mitgliedschaftsantrag Gerokstraße](/documents/antrag_ger_de.pdf)
+    * [Mitgliedschaftsantrag Hochschulstraße](/documents/antrag_hss_de.pdf)
+    * [Mitgliedschaftsantrag Wundtstraße und Zellescher Weg](/documents/antrag_wu_de.pdf)
+    * [Mitgliedschaftsantrag Zeunerstraße](/documents/antrag_zeu_de.pdf)
   
 2. Fülle __zwei__ Exemplare dieses Formulars leserlich aus und unterzeichne sie je zweimal.
 3. Wirf beide Exemplare in unseren Briefkasten oder gib sie zu den Sprechzeiten im Büro ab. Dort werden die Anträge üblicherweise sofort bearbeitet und dein Zugang freigeschalten.

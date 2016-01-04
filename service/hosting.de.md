@@ -17,7 +17,7 @@ Als Nutzerlogin sollte Dein Login verwendet werden, welches auch auf Deinem Antr
 
 Um Zugriff auf Dein Home-Verzeichnis zu erhalten ist es nötig, sich über SSH auf dem Userhosting einzuloggen. Unter Linux oder Mac ist das kein Problem, jedoch erzwingt die Verwendung von Microsoft Windows als Betriebssystem die Verwendung eines Programms um diesen Zugriff per SSH zu erhalten. Hier bieten sich zum Beispiel Putty oder diverse andere an. Dateien verschiebt man bei Verwendung von Microsoft-Betriebssystemen am besten per WinSCP zum Userhosting.
 
-Weitere von uns angebotene Features sind eine eigene MySQL-Datenbank und die Möglichkeit, PHP zu nutzen. Die Datenbankverwaltung ist per Konsole (Aufruf über: mysql -u nutzerlogin -p) möglich, nachdem in der [Usersuite](../../usersuite) ein Datenbank-Passwort gesetzt wurde.
+Weitere von uns angebotene Features sind eine eigene MySQL-Datenbank und die Möglichkeit, PHP zu nutzen. Die Datenbankverwaltung ist per Konsole (Aufruf über: mysql -u nutzerlogin -p) möglich, nachdem in der [Usersuite](/usersuite) ein Datenbank-Passwort gesetzt wurde.
 
 Eine dort abgelegte Datei, beispielsweise mit Namen bild.jpg, ruft man im Browser auf, indem man sinngemäß
 

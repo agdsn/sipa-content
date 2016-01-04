@@ -9,7 +9,7 @@ Bei Problemen mit deinem Netzwerkanschluss hast Du mehre Möglichkeiten:
 * Komme zu einer Sprechstunde in eines der Büros
 * Schreibe uns eine Mail. Die Adresse ist auf den Anträgen zu finden und nach dem Login einsehbar
 * Gehe zu einem Hausverantwortlichen. Eine Liste mit Admins die in Deinem Haus wohnen, kannst du im Erdgeschoss bei den Hausaushägen finden.
-* Nutze das [Kontaktformular](../../contact)
+* Nutze das [Kontaktformular](/contact)
 
 ### Sprechstunden
 

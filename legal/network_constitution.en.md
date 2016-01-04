@@ -12,7 +12,7 @@ In general, the following network constitutions hold:
 
 Additionally, the following constitutions hold in the according dormitory, respectively:
 
-* [Borsbergstraße](../../documents/legal/bor/network_2014.pdf)
-* [Hochschulstraße](../../documents/legal/hss/network_2015.pdf)
+* [Borsbergstraße](/documents/legal/bor/network_2014.pdf)
+* [Hochschulstraße](/documents/legal/hss/network_2015.pdf)
 * Wundtstraße und Zellescher Weg
-* [Zeunerstraße](../../documents/legal/zeu/network_2006.pdf)
+* [Zeunerstraße](/documents/legal/zeu/network_2006.pdf)

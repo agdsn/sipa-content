@@ -13,6 +13,6 @@ You can now access the pages by visiting `http://www.wh2.tu-dresden.de/~userlogi
 
 To gain access to your home directory, it is necessary to log in into the userhosting via SSH. While on Linux or Macintosh systems, it is easy to do so, using Microsoft windows forces you to install an application like WinSCP, Putty or Diverse. For just transferring files as needed in this case, WinSCP is a suitable choice.
 
-Other features we provide are a MySQL database and the possibility to use PHP in your pages. Maintaining the database is possible using the terminal (usage: `mysql -u userlogin -p`) after you specified a database password in the [Usersuite](../../usersuite)
+Other features we provide are a MySQL database and the possibility to use PHP in your pages. Maintaining the database is possible using the terminal (usage: `mysql -u userlogin -p`) after you specified a database password in the [Usersuite](/usersuite)
 
 A file copied there, for instance `image.jpg`, can be accessed in a browser by visiting `http://www.wh2.tu-dresden.de/~userlogin/image.jpg`.

@@ -6,7 +6,7 @@ rank: 3
 event: [Borsbergstraße, Gerokstraße, Hochschulstraße, Wundtstraße, Zellescher Weg]
 
 As a Member you have an e-mail-account in our System.
-You do not have to use this account to receive our mails -  in the [Usersuite](../../usersuite), you can forward the mails to your existant private address.
+You do not have to use this account to receive our mails -  in the [Usersuite](/usersuite), you can forward the mails to your existant private address.
 
 Your mail is of the form:
 
@@ -16,7 +16,7 @@ Your mail is of the form:
 * Wundtstraße and Zellescher Weg: `<username>@wh2.tu-dresden.de`
 
 You can find the initial password on the access data sheet, which You have been handed out after your application
-You can always change it with the [usersuite](../../usersuite).
+You can always change it with the [usersuite](/usersuite).
 
 Important announcements and notifications regarding your account (high traffic, overdue payment) are sent via e-mail.
 We strongly recommend you to check your mails regularly or to setup an address for forwarding, if you do not intend to use your e-mail account with us.
@@ -92,4 +92,4 @@ POP3 check the mails only once and then deletes them after this from the server.
 
 ### Forward e-mails
 
-You can simply setup an e-mail-forward with the [usersuite](../../usersuite). Each e-mail send to `<username>@wh2.tu-dresden.de` will be automatically forwarded to this e-mail.
+You can simply setup an e-mail-forward with the [usersuite](/usersuite). Each e-mail send to `<username>@wh2.tu-dresden.de` will be automatically forwarded to this e-mail.

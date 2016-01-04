@@ -6,7 +6,7 @@ rank: 3
 event: [Borsbergstraße, Gerokstraße, Hochschulstraße, Wundtstraße, Zellescher Weg]
 
 In unserem System bekommst Du als Mitglied ein E-Mail-Konto.
-Das Konto musst Du nicht nutzen, um von uns E-Mails zu bekommen - du kannst auch in der [Usersuite](../../usersuite) einen E-Mail-Forward einrichten, um die Nachrichten an Deine schon vorhandene Adresse geschickt zu bekommen.
+Das Konto musst Du nicht nutzen, um von uns E-Mails zu bekommen - du kannst auch in der [Usersuite](/usersuite) einen E-Mail-Forward einrichten, um die Nachrichten an Deine schon vorhandene Adresse geschickt zu bekommen.
 Diese E-Mail hat die Form:
 
 * Borsbergstraße: `<nutzername>@wh10.tu-dresden.de`
@@ -15,7 +15,7 @@ Diese E-Mail hat die Form:
 * Wundtstraße und Zellescher Weg: `<nutzername>@wh2.tu-dresden.de`
 
 Das initiale Passwort kannst du dem Zugangsdatenblatt, das Du mit einem Exemplar deines Antrags zurückbekommst, entnehmen.
-Ändern kannst du es jeder Zeit in der [Usersuite](../../usersuite).
+Ändern kannst du es jeder Zeit in der [Usersuite](/usersuite).
 
 Wichtige Ankündigungen und Mitteilungen, die Dein Konto betreffen (Hoher Traffic, Zahlung ausstehend) werden per E-Mail versendend.
 Wir empfehlen dringend, Deine Mails regelmäßig abzurufen, oder eine E-Mail Weiterleitung einzurichten, falls Du das E-Mailkonto bei uns nicht benutzen möchtest.
@@ -89,4 +89,4 @@ POP3 ruft einmal Mails vom Server ab und löscht sie dann auf dem Server. Es ist
 
 ### E-Mails weiterleiten
 
-Eine E-Mailweiterleitung kannst du dir einfach in der [Usersuite](../../usersuite) konfigurieren. Alle Mails an `<nutzername>@whX.tu-dresden.de` werden, dann automatisch an diese Adresse weitergeleitet.
+Eine E-Mailweiterleitung kannst du dir einfach in der [Usersuite](/usersuite) konfigurieren. Alle Mails an `<nutzername>@whX.tu-dresden.de` werden, dann automatisch an diese Adresse weitergeleitet.
