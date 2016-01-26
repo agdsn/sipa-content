@@ -8,6 +8,8 @@ If you want to use multiple devices or just have WiFi, you have to get a Router.
 
 If all you want is a cheap, working solution, we recommend the __TP-LINK WR841__.
 
+###Security advice
+We recommend to allways change the default passwords for the WiFi and admin interface. For several vendors there are easy ways to determine the default passwords from the network's name and/or MAC-address.
 
 ###Working devices
 
@@ -23,7 +25,7 @@ Samsung 	| SMT-G3210 	  	| -		| Use LAN1 as WAN-Port
 TP-Link 	| WR641G/642G v3   	| -		| WLAN-Access Point with routing
 TP-Link 	| TL-WR1043ND 		| yes 		| 1 GBit/s at uplink
 TP-Link 	| TL-WR741ND 		| yes 	 	|
-TP-Link 	| TL-WDR3600 		| yes 		| All ports support GBit
+TP-Link 	| TL-WDR3600,4300 		| yes 		| All ports support GBit
 DLink 		| DIR 600/615 		| yes 	 	|
 
 
@@ -32,6 +34,7 @@ DLink 		| DIR 600/615 		| yes 	 	|
  |
 --- 		| --- 			| ---
 Vendor	| Device			| Note
-Telekom 	| probably everyone 	| Devices are only DSL-Routers
+Telekom 	| probably every 	| Devices are only DSL-Routers
+Vodafone	| Easybox		| Only DSL
 TP-Link 	| TL-WA701ND 		| Is only a WiFi Access Point
 Zyxel 		| p-660hw-t7c 	 	|
