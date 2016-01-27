@@ -2,7 +2,7 @@ title: Sektionssitzung im NOC
 author: Lukas Juhrich
 date: 2016-01-27
 type: default
-information: [Wundtstraße, Zellescher Weg, Hochschulstraße]
+event: [Wundtstraße, Zellescher Weg, Hochschulstraße]
 
 Liebe Mitglieder,
 
