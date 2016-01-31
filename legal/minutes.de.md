@@ -31,3 +31,5 @@ Protokolle der Sektion Wundtstraße:
 * [2015-07-08](../../documents/protocols/wu/Protokoll_2015-07-08_Public.pdf)
 * [2015-07-15](../../documents/protocols/wu/Protokoll_2015-07-15_Public.pdf)
 * [2015-07-22](../../documents/protocols/wu/Protokoll_2015-07-22_Public.pdf)
+* [2015-07-29](../../documents/protocols/wu/Protokoll_2015-07-29_Public.pdf)
+
