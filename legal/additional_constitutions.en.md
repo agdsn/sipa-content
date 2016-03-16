@@ -4,6 +4,8 @@ direct: true
 glyphicon: glyphicon-tasks
 rank: 2
 
+The regulations concerning Teams and their budgets can be found [here](/documents/legal/Teamordnung_2015-11-25.pdf).
+
 Additionally to the general constitution of the AG DSN, the following constitutions hold for the according dormitories, respectively:
 
 * [Borsbergstraße](/documents/legal/bor/constitution_2014.pdf)
