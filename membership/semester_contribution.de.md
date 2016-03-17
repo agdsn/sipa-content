@@ -1,16 +1,16 @@
 title: Semesterbeitrag
-date: 2015-09-03
+date: 2016-03-17
 direct: True
 glyphicon: glyphicon-euro
 rank: 2
 
-Als Mitglied musst Du jedes Semester einen Semesterbeitrag auf unser Konto überweisen.
+Als Mitglied musst Du regelmäßig einen Mitgliedsbeitrag auf unser Konto überweisen.
 Barzahlung ist nicht möglich.
-An manchen Standorten fällt zusätzlich eine einmalige Anmeldegebühr an. 
-Der Beitrag wird zu Beginn eines jeden Semesters an der TU Dresden (1. Oktober bzw.  1. April) beziehungsweise nach deiner Anmeldung fällig. Du hast 31 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang gesperrt und es fällt unter Umständen eine Versäumnisgebühr an.
+Der Beitrag wird am Ende eines Monats fällig. Du hast 14 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang gesperrt.
+Du kannst für mehrere Monate im voraus bezahlen, zum Beispiel für ein ganzes Semester.
 
 Die Überweisung wird nach Eingang bei uns automatisch zugeordnet.
-Solltest du wegen Bezahlung gesperrt werden, obwohl du bezahlt hast, so komme bitte mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in unsere Sprechstunde.
+Solltest du wegen fehlenden Beitrags gesperrt werden, obwohl du bezahlt hast, so komme bitte mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in unsere [Sprechstunde](/contact).
 
 ## Verwendung
 
@@ -19,6 +19,8 @@ Die Beiträge der Mitglieder werden durch uns verwaltet und komplett reinvestier
 Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft werden, genauso finanzieren sich die Server und Dienste, die wir Dir zur Verfügung stellen, über die Mitgliedsbeiträge. Für weitere Informationen schau doch einfach mal in der Sprechstunde vorbei oder komm zu einer unserer Sitzungen.
 
 ## Zahlungsinformationen
+
+Klicke für Zahlungsdetails auf deine Sektion.
 
 <div>
   <ul class="nav nav-tabs" role="tablist">
@@ -51,20 +53,8 @@ Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft
           </thead>
           <tbody>
             <tr>
-              <td>Anmeldegebühr</td>
-              <td>20 €</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (regulär)</td>
-              <td>15 €</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (ruhend)</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Versäumnisgebühr</td>
-              <td>–</td>
+              <td>Monatsbeitrag</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>
@@ -97,20 +87,8 @@ Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft
           </thead>
           <tbody>
             <tr>
-              <td>Anmeldegebühr</td>
-              <td>10 €</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (regulär)</td>
-              <td>10 €</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (ruhend)</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Versäumnisgebühr</td>
-              <td>–</td>
+              <td>Monatsbeitrag</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>
@@ -143,20 +121,8 @@ Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft
           </thead>
           <tbody>
             <tr>
-              <td>Anmeldegebühr</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (regulär)</td>
-              <td>20 €</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (ruhend)</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Versäumnisgebühr</td>
-              <td>–</td>
+              <td>Monatsbeitrag</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>
@@ -189,20 +155,8 @@ Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft
           </thead>
           <tbody>
             <tr>
-              <td>Anmeldegebühr</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (regulär)</td>
-              <td>20 €</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (ruhend)</td>
-              <td>1 €</td>
-            </tr>
-            <tr>
-              <td>Versäumnisgebühr</td>
-              <td>2,50 €</td>
+              <td>Monatsbeitrag</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>
@@ -235,20 +189,8 @@ Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft
           </thead>
           <tbody>
             <tr>
-              <td>Anmeldegebühr</td>
-              <td>5 €</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (regulär)</td>
-              <td>15 €</td>
-            </tr>
-            <tr>
-              <td>Semesterbeitrag (ruhend)</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Versäumnisgebühr</td>
-              <td>–</td>
+              <td>Monatsbeitrag</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>

@@ -4,10 +4,9 @@ direct: True
 glyphicon: glyphicon-euro
 rank: 2
 
-As a member, you have to transfer a semester contribution each semester to our bank account.
+As a member, you have to transfer a monthly contribution to our bank account.
 Paying cash is not possible.
-At some sites an additional registration fee is due.
-The contribution is due at the beginning of each semester of TU Dresden (1st of October or 1st of April respectively). You have 31 days to pay, otherwise your access will be suspended and a overdue fee could be charged.
+The contribution is due at the end of each month. You have 14 days to pay, otherwise your access will be suspended.
 When the payment has reached our bank account it will be allocated to your account by an automated software system.
 
 If you're blocked although you have paid, please come to our offices during our [office hours](/contact) and bring a bank account statement with you which mentions the transfer.
@@ -19,6 +18,8 @@ The contributions of all members are administrated by us and will be completely 
 The network has to be maintained, we need spare parts for the servers and other network hardware so that we can ensure that every service is working. If you are having any further questions, just feel free to come by.
 
 ## Payment details
+
+Click on your section for details.
 
 <div>
   <ul class="nav nav-tabs" role="tablist">
@@ -51,20 +52,8 @@ The network has to be maintained, we need spare parts for the servers and other 
           </thead>
           <tbody>
             <tr>
-              <td>Registration Fee</td>
-              <td>20 €</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (regular)</td>
-              <td>15 €</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (inactive members)</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Late Fee</td>
-              <td>–</td>
+              <td>Monthly Contribution</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>
@@ -97,20 +86,8 @@ The network has to be maintained, we need spare parts for the servers and other 
           </thead>
           <tbody>
             <tr>
-              <td>Registration Fee</td>
-              <td>10 €</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (regular)</td>
-              <td>10 €</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (inactive members)</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Late Fee</td>
-              <td>–</td>
+              <td>Monthly Contribution</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>
@@ -143,20 +120,8 @@ The network has to be maintained, we need spare parts for the servers and other 
           </thead>
           <tbody>
             <tr>
-              <td>Registration Fee</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (regular)</td>
-              <td>20 €</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (inactive members)</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Late Fee</td>
-              <td>–</td>
+              <td>Monthly Contribution</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>
@@ -189,20 +154,8 @@ The network has to be maintained, we need spare parts for the servers and other 
           </thead>
           <tbody>
             <tr>
-              <td>Registration Fee</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (regular)</td>
-              <td>20 €</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (inactive members)</td>
-              <td>1 €</td>
-            </tr>
-            <tr>
-              <td>Late Fee</td>
-              <td>2.50 €</td>
+              <td>Monthly Contribution</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>
@@ -235,20 +188,8 @@ The network has to be maintained, we need spare parts for the servers and other 
           </thead>
           <tbody>
             <tr>
-              <td>Registration Fee</td>
-              <td>5 €</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (regular)</td>
-              <td>15 €</td>
-            </tr>
-            <tr>
-              <td>Semester Contribution (inactive members)</td>
-              <td>–</td>
-            </tr>
-            <tr>
-              <td>Late Fee</td>
-              <td>–</td>
+              <td>Monthly Contribution</td>
+              <td>3 €</td>
             </tr>
           </tbody>
         </table>
