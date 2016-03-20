@@ -4,18 +4,26 @@ direct: True
 glyphicon: glyphicon-euro
 rank: 2
 
-As a member, you have to transfer a monthly contribution to our bank account.
-Paying cash is not possible.
-The contribution is due at the end of each month. You have 14 days to pay, otherwise your access will be suspended.
-When the payment has reached our bank account it will be allocated to your account by an automated software system.
+As a member, you have to transfer a monthly contribution to our bank
+account.  Paying cash is not possible.  The contribution is due at the
+end of each month. You have 14 days to pay, otherwise your access will
+be suspended.  When the payment has reached our bank account it will
+be allocated to your account by an automated software system.
 
-If you're blocked although you have paid, please come to our offices during our [office hours](/contact) and bring a bank account statement with you which mentions the transfer.
+If you're blocked although you have paid, please come to our offices
+during our [office hours](/contact) and bring a bank account statement
+with you which mentions the transfer.
 
 ### Intended use
 
-The contributions of all members are administrated by us and will be completely reinvested. The administrators are working completely voluntarily and do not get any money for doing their job.
+The contributions of all members are administrated by us and will be
+completely reinvested. The administrators are working completely
+voluntarily and do not get any money for doing their job.
 
-The network has to be maintained, we need spare parts for the servers and other network hardware so that we can ensure that every service is working. If you are having any further questions, just feel free to come by.
+The network has to be maintained, we need spare parts for the servers
+and other network hardware so that we can ensure that every service is
+working. If you are having any further questions, just feel free to
+come by.
 
 ### Payment details
 

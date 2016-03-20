@@ -10,13 +10,21 @@ Der Beitrag wird am Ende eines Monats fällig. Du hast 14 Tage Zeit zu bezahlen,
 Du kannst für mehrere Monate im voraus bezahlen, zum Beispiel für ein ganzes Semester.
 
 Die Überweisung wird nach Eingang bei uns automatisch zugeordnet.
-Solltest du wegen fehlenden Beitrags gesperrt werden, obwohl du bezahlt hast, so komme bitte mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in unsere [Sprechstunde](/contact).
+Solltest du wegen fehlenden Beitrags gesperrt werden, obwohl du
+bezahlt hast, so komme bitte mit einem Kontoauszug (keinem
+Überweisungsvordruck o.ä.) in unsere [Sprechstunde](/contact).
 
 ### Verwendung
 
-Die Beiträge der Mitglieder werden durch uns verwaltet und komplett reinvestiert. Die Administratoren arbeiten vollständig ehrenamtlich und erhalten keinen Lohn oder Aufwandsentschädigungen.
+Die Beiträge der Mitglieder werden durch uns verwaltet und komplett
+reinvestiert. Die Administratoren arbeiten vollständig ehrenamtlich
+und erhalten keinen Lohn oder Aufwandsentschädigungen.
 
-Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft werden, genauso finanzieren sich die Server und Dienste, die wir Dir zur Verfügung stellen, über die Mitgliedsbeiträge. Für weitere Informationen schau doch einfach mal in der Sprechstunde vorbei oder komm zu einer unserer Sitzungen.
+Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material
+beschafft werden, genauso finanzieren sich die Server und Dienste, die
+wir Dir zur Verfügung stellen, über die Mitgliedsbeiträge. Für weitere
+Informationen schau doch einfach mal in der Sprechstunde vorbei oder
+komm zu einer unserer Sitzungen.
 
 ### Zahlungsinformationen
 
