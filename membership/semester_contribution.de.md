@@ -4,10 +4,12 @@ direct: True
 glyphicon: glyphicon-euro
 rank: 2
 
-Als Mitglied musst Du regelmäßig einen Mitgliedsbeitrag auf unser Konto überweisen.
-Barzahlung ist nicht möglich.
-Der Beitrag wird am Ende eines Monats fällig. Du hast 14 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang gesperrt.
-Du kannst für mehrere Monate im voraus bezahlen, zum Beispiel für ein ganzes Semester.
+Als Mitglied musst Du regelmäßig einen Mitgliedsbeitrag auf unser
+Konto überweisen.  Barzahlung ist nicht möglich.  Der Beitrag wird am
+Ende eines Monats fällig.
+
+Wir empfehlen jedoch, zum Beginn eines Semesters für dieses *im
+Voraus* zu bezahlen, was sechs Monatsbeiträgen entspricht.
 
 Die Überweisung wird nach Eingang bei uns automatisch zugeordnet.
 Solltest du wegen fehlenden Beitrags gesperrt werden, obwohl du
