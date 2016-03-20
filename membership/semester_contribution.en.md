@@ -11,13 +11,13 @@ When the payment has reached our bank account it will be allocated to your accou
 
 If you're blocked although you have paid, please come to our offices during our [office hours](/contact) and bring a bank account statement with you which mentions the transfer.
 
-## Intended use
+### Intended use
 
 The contributions of all members are administrated by us and will be completely reinvested. The administrators are working completely voluntarily and do not get any money for doing their job.
 
 The network has to be maintained, we need spare parts for the servers and other network hardware so that we can ensure that every service is working. If you are having any further questions, just feel free to come by.
 
-## Payment details
+### Payment details
 
 Click on your section for details.
 
