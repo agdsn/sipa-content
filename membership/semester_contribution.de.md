@@ -11,10 +11,18 @@ Ende eines Monats fällig.
 Wir empfehlen jedoch, zum Beginn eines Semesters für dieses *im
 Voraus* zu bezahlen, was sechs Monatsbeiträgen entspricht.
 
+Ist der Beitrag 14 Tage nach Fälligkeit noch nicht eingegangen,
+Sperren wir deinen Netzzugang.  Nach 62 Tagen können wir dir deine
+Mitgliedschaft entziehen.
+
 Die Überweisung wird nach Eingang bei uns automatisch zugeordnet.
 Solltest du wegen fehlenden Beitrags gesperrt werden, obwohl du
 bezahlt hast, so komme bitte mit einem Kontoauszug (keinem
 Überweisungsvordruck o.ä.) in unsere [Sprechstunde](/contact).
+
+Eine detaillierte Regelung findest du in unserer
+[Beitragsordnung](/documents/legal/beitragsordnung.pdf).
+
 
 ### Verwendung
 

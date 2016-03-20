@@ -10,9 +10,16 @@ end of each month. You have 14 days to pay, otherwise your access will
 be suspended.  When the payment has reached our bank account it will
 be allocated to your account by an automated software system.
 
+If you haven't transacted the contribution 14 days after it had been
+due, we will block your network access.  After 62 days, we may
+terminate your membership.
+
 If you're blocked although you have paid, please come to our offices
 during our [office hours](/contact) and bring a bank account statement
 with you which mentions the transfer.
+
+A detailed description can be taken from our
+[finance constitution](/documents/legal/beitragsordnung.pdf).
 
 ### Intended use
 
