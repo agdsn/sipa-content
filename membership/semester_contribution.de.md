@@ -64,7 +64,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -98,7 +98,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -132,7 +132,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -166,7 +166,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -200,7 +200,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>

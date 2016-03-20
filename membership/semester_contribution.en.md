@@ -61,7 +61,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -95,7 +95,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -129,7 +129,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -163,7 +163,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -197,7 +197,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
