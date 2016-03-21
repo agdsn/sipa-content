@@ -1,10 +1,10 @@
-title: New finance constitution
+title: New finance regulation
 author: Felix Wollert
 date: 2016-03-20
 event: [Hochschulstraße, Wundtstraße, Zellescher Weg, Borsbergstraße, Gerokstraße, Zeunerstraße]
 
 According to the plenary meeting on March 9th, a new,
-**uniform finance constitution** will take effect from
+**uniform finance regulation** will take effect from
 April 1st 2016. Beforehand, amount and mode of the contributions differed
 depending on the local division of the AG DSN.
 
@@ -28,8 +28,8 @@ Furthermore we are working hard to establish the same high-quality (gigabit to e
 especially at the formerly
 cheaper Gerok-, Borsberg- and Zeunerstraße. We have already put substantial effort into these upgrades.
 
-Finally, uniform regulations will help us to save time spent on administrative tasks, so that we
+Finally, uniform regulations will help us to save on time spent on administrative tasks, so that we
 can provide faster responses on support inquiries and work more on technical improvements.
 
-You can find the constitution [here](/documents/legal/beitragsordnung.pdf), please feel free to
+You can find the full regulation [here](/documents/legal/beitragsordnung.pdf), please feel free to
 [contact us](/contact).
