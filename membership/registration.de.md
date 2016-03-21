@@ -4,7 +4,7 @@ glyphicon: glyphicon-log-in
 rank: 1
 
 Die AG Dresdner Studentennetz ist eine Arbeitsgemeinschaft von Studenten wie dir.
-Wir verwalten und verbessern das Netzwerk in den Wohnheimen Wundtstraße, Zellescher Weg, Hochschulstraße, Borsbergstraße, Gerokstraße und Zeunerstraße. 
+Wir verwalten und verbessern das Netzwerk in den Wohnheimen Wundtstraße, Zellescher Weg, Hochschulstraße, Borsbergstraße, Gerokstraße und Zeunerstraße.
 ###Mitglied werden
 Um Mitglied in der AG DSN zu werden und damit unter anderem Zugang zum Studentennetz zu erhalten, musst Du folgendes tun:
 
@@ -15,7 +15,7 @@ Um Mitglied in der AG DSN zu werden und damit unter anderem Zugang zum Studenten
     * [Mitgliedschaftsantrag Hochschulstraße](/documents/antrag_hss_de.pdf)
     * [Mitgliedschaftsantrag Wundtstraße und Zellescher Weg](/documents/antrag_wu_de.pdf)
     * [Mitgliedschaftsantrag Zeunerstraße](/documents/antrag_zeu_de.pdf)
-  
+
 2. Fülle __zwei__ Exemplare dieses Formulars leserlich aus und unterzeichne sie je zweimal.
 3. Wirf beide Exemplare in unseren Briefkasten oder gib sie zu den Sprechzeiten im Büro ab. Dort werden die Anträge üblicherweise sofort bearbeitet und dein Zugang freigeschalten.
 4. Etwa eine Woche nach der Abgabe erhältst Du ein Exemplar zusammen mit einem Datenblatt zurück. Spätestens jetzt sollte Dein Zugang funktionieren.
