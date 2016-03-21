@@ -24,6 +24,7 @@ Semesters 21€ an das entsprechende Konto zu überweisen.
 In erster Linie sollen die Beiträge damit einheitlich und gerechter
 werden, vor allem für Mitglieder, die nur wenige Monate im Wohnheim
 wohnen.  Vorher mussten sie für ein ganzes Semester bezahlen.  Die
-Beitragsordnung im Wortlaut findet ihr [hier](TODO)
+Beitragsordnung im Wortlaut findet ihr
+[hier](/documents/legal/beitragsordnung.pdf).
 
 Eure AG DSN.

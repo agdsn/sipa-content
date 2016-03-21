@@ -26,4 +26,6 @@ just.  Members who stay only a few months might have had to pay for a
 whole semester if they didn't align with the complicated tolerance
 regulations, which is now impossible due to the monthly basis.
 
+You can find the constitution [here](/documents/legal/beitragsordnung.pdf).
+
 Your AG DSN.
