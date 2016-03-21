@@ -6,9 +6,11 @@ rank: 2
 
 As a member, you have to transfer a monthly contribution to our bank
 account.  Paying cash is not possible.  The contribution is due at the
-end of each month. You have 14 days to pay, otherwise your access will
-be suspended.  When the payment has reached our bank account it will
-be allocated to your account by an automated software system.
+end of each month.
+
+We recommend that you pay at the beginning of each semester _in
+advance_, meaning you transact six monthly contributions at once.
+
 
 If you haven't transacted the contribution 14 days after it had been
 due, we will block your network access.  After 62 days, we may
