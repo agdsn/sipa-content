@@ -4,7 +4,7 @@ date: 2016-03-20
 event: [Hochschulstraße, Wundtstraße, Zellescher Weg, Borsbergstraße, Gerokstraße, Zeunerstraße]
 
 Mit dem Beschluss der Vollversammlung der AG DSN am 9.3.2016 tritt zum
-1.4. 2016 eine komplett neue, **einheitliche
+1.4.2016 eine komplett neue, **einheitliche
 Beitragsordnung** in Kraft. Bisher waren Beitragshöhe und -modus von
 Sektion zu Sektion unterschiedlich.
 
