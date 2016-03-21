@@ -1,4 +1,4 @@
-title: Semesterbeitrag
+title: Mitgliedsbeitrag
 date: 2016-03-17
 direct: True
 glyphicon: glyphicon-euro

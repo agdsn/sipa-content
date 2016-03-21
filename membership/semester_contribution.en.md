@@ -1,4 +1,4 @@
-title: Semester contribution
+title: Membership contribution
 date: 2015-09-03
 direct: True
 glyphicon: glyphicon-euro
