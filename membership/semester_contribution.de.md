@@ -4,21 +4,39 @@ direct: True
 glyphicon: glyphicon-euro
 rank: 2
 
-Als Mitglied musst Du regelmäßig einen Mitgliedsbeitrag auf unser Konto überweisen.
-Barzahlung ist nicht möglich.
-Der Beitrag wird am Ende eines Monats fällig. Du hast 14 Tage Zeit zu bezahlen, ansonsten wird Dein Zugang gesperrt.
-Du kannst für mehrere Monate im voraus bezahlen, zum Beispiel für ein ganzes Semester.
+Als Mitglied musst Du regelmäßig einen Mitgliedsbeitrag auf unser
+Konto überweisen.  Barzahlung ist nicht möglich.  Der Beitrag wird am
+Ende eines Monats fällig.
+
+Wir empfehlen jedoch, zum Beginn eines Semesters für dieses *im
+Voraus* zu bezahlen, was sechs Monatsbeiträgen entspricht.
+
+Ist der Beitrag 14 Tage nach Fälligkeit noch nicht eingegangen,
+Sperren wir deinen Netzzugang.  Nach 62 Tagen können wir dir deine
+Mitgliedschaft entziehen.
 
 Die Überweisung wird nach Eingang bei uns automatisch zugeordnet.
-Solltest du wegen fehlenden Beitrags gesperrt werden, obwohl du bezahlt hast, so komme bitte mit einem Kontoauszug (keinem Überweisungsvordruck o.ä.) in unsere [Sprechstunde](/contact).
+Solltest du wegen fehlenden Beitrags gesperrt werden, obwohl du
+bezahlt hast, so komme bitte mit einem Kontoauszug (keinem
+Überweisungsvordruck o.ä.) in unsere [Sprechstunde](/contact).
 
-## Verwendung
+Eine detaillierte Regelung findest du in unserer
+[Beitragsordnung](/documents/legal/beitragsordnung.pdf).
 
-Die Beiträge der Mitglieder werden durch uns verwaltet und komplett reinvestiert. Die Administratoren arbeiten vollständig ehrenamtlich und erhalten keinen Lohn oder Aufwandsentschädigungen.
 
-Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material beschafft werden, genauso finanzieren sich die Server und Dienste, die wir Dir zur Verfügung stellen, über die Mitgliedsbeiträge. Für weitere Informationen schau doch einfach mal in der Sprechstunde vorbei oder komm zu einer unserer Sitzungen.
+### Verwendung
 
-## Zahlungsinformationen
+Die Beiträge der Mitglieder werden durch uns verwaltet und komplett
+reinvestiert. Die Administratoren arbeiten vollständig ehrenamtlich
+und erhalten keinen Lohn oder Aufwandsentschädigungen.
+
+Das Netzwerk muss gewartet werden, es müssen Ersatzteile und Material
+beschafft werden, genauso finanzieren sich die Server und Dienste, die
+wir Dir zur Verfügung stellen, über die Mitgliedsbeiträge. Für weitere
+Informationen schau doch einfach mal in der Sprechstunde vorbei oder
+komm zu einer unserer Sitzungen.
+
+### Zahlungsinformationen
 
 Klicke für Zahlungsdetails auf deine Sektion.
 
@@ -54,7 +72,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -88,7 +106,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -122,7 +140,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -156,7 +174,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -190,7 +208,7 @@ Klicke für Zahlungsdetails auf deine Sektion.
           <tbody>
             <tr>
               <td>Monatsbeitrag</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>

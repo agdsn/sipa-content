@@ -4,20 +4,35 @@ direct: True
 glyphicon: glyphicon-euro
 rank: 2
 
-As a member, you have to transfer a monthly contribution to our bank account.
-Paying cash is not possible.
-The contribution is due at the end of each month. You have 14 days to pay, otherwise your access will be suspended.
-When the payment has reached our bank account it will be allocated to your account by an automated software system.
+As a member, you have to transfer a monthly contribution to our bank
+account.  Paying cash is not possible.  The contribution is due at the
+end of each month. You have 14 days to pay, otherwise your access will
+be suspended.  When the payment has reached our bank account it will
+be allocated to your account by an automated software system.
 
-If you're blocked although you have paid, please come to our offices during our [office hours](/contact) and bring a bank account statement with you which mentions the transfer.
+If you haven't transacted the contribution 14 days after it had been
+due, we will block your network access.  After 62 days, we may
+terminate your membership.
 
-## Intended use
+If you're blocked although you have paid, please come to our offices
+during our [office hours](/contact) and bring a bank account statement
+with you which mentions the transfer.
 
-The contributions of all members are administrated by us and will be completely reinvested. The administrators are working completely voluntarily and do not get any money for doing their job.
+A detailed description can be taken from our
+[finance constitution](/documents/legal/beitragsordnung.pdf).
 
-The network has to be maintained, we need spare parts for the servers and other network hardware so that we can ensure that every service is working. If you are having any further questions, just feel free to come by.
+### Intended use
 
-## Payment details
+The contributions of all members are administrated by us and will be
+completely reinvested. The administrators are working completely
+voluntarily and do not get any money for doing their job.
+
+The network has to be maintained, we need spare parts for the servers
+and other network hardware so that we can ensure that every service is
+working. If you are having any further questions, just feel free to
+come by.
+
+### Payment details
 
 Click on your section for details.
 
@@ -53,7 +68,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -87,7 +102,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -121,7 +136,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -155,7 +170,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
@@ -189,7 +204,7 @@ Click on your section for details.
           <tbody>
             <tr>
               <td>Monthly Contribution</td>
-              <td>3 €</td>
+              <td>3,50 €</td>
             </tr>
           </tbody>
         </table>
