@@ -8,3 +8,6 @@ Liebe Mitglieder,
 wir mÃ¶chten am 30.3. um 20:00 Uhr einen Spieleabend bei uns im NOC veranstalten.
 
 Wir mÃ¶chten gerne jedes Mitglied der AG DSN (und gerne auch alle anderen interessierten Studenten) einladen zu kommen. Spielt mit und lernt uns besser kennen :)
+
+
+NOC: Räcknitzhöhe 35, 01217 Dresden
