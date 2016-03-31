@@ -4,7 +4,7 @@ direct: true
 glyphicon: glyphicon-euro
 rank: 3
 
-The Finance constitution of the AG DSN holds in general.
+The [Finance regulations of the AG DSN](/documents/legal/beitragsordnung.pdf) hold in general.
 
 Additionally, specific constitutions hold in the according dormitories:
 

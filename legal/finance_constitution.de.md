@@ -1,10 +1,10 @@
 title: Finanzordnungen
-date: 2015-09-15
+date: 2015-03-31
 direct: true
 glyphicon: glyphicon-euro
 rank: 3
 
-Allgemein gilt die Finanzordnung der AG DSN.
+Allgemein gilt die [Beitragsordnung der AG DSN](/documents/legal/beitragsordnung.pdf).
 
 In den einzelnen Wohnheimen gelten zusätzlich die speziellen Finanzordnungen:
 
