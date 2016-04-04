@@ -1,8 +1,8 @@
 title: Schlechte Internetverbindung
 author: Jan Braje
 date: 2016-04-04
-event: [HochschulstraßŸe, WundtstraßŸe, Zellescher Weg, Borsbergstraße, Gerokstraße, ZeunerstraßŸe]
+event: [Hochschulstra§e, Wundtstra§e, Zellescher Weg, Borsbergstra§e, Gerokstra§e, Zeunerstra§e]
 
-Wir erfahren grade einige Probleme mit der Stabilität und Geschwindigkeit unseres Netzes.
+Wir erfahren grade einige Probleme mit der StabilitŠt und Geschwindigkeit unseres Netzes.
 
-Wir sind dabei die Fehler zu finden und stehen mit dem ZIH (TUD) im Kontak um es schnellstmöglich zu lösen.
+Wir sind dabei die Fehler zu finden und stehen mit dem ZIH (TUD) im Kontak um es schnellstmšglich zu lšsen.
