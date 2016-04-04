@@ -5,4 +5,4 @@ outage: [Hochschulstraße, Wundtstraße, Zellescher Weg, Borsbergstraße, Geroks
 
 Wir beobachten gerade einige Probleme mit der Stabilität und Geschwindigkeit unseres Netzes.
 
-Wir sind dabei die Fehler zu finden und stehen mit dem ZIH (TUD) im Kontak um es schnellstmöglich zu lösen.
+Wir sind dabei die Fehler zu finden und stehen mit dem ZIH (TUD) in Kontakt um es schnellstmöglich zu lösen.
