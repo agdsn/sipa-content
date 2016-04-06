@@ -9,7 +9,7 @@ April 1st 2016. Beforehand, amount and mode of the contributions differed
 depending on the local division of the AG DSN.
 
 **Summary:** The simplest method for you to pay is to transfer 21€ to the
-according [finance account](/pages/membership/membership_contribution) at the beginning of each semester.
+respective [bank account](/pages/membership/membership_contribution) at the beginning of each semester.
 
 **Details:**
 
@@ -21,7 +21,7 @@ according [finance account](/pages/membership/membership_contribution) at the be
   semester
 
 The main motivation for this change is to make the contributions more uniform and
-fair.  Members who stay only for a few month will only have to pay for the time they are actually
+fair.  Members who stay only for a few months will only have to pay for the time they are actually
 using the network, no registration fee is due anymore.
 
 Furthermore we are working hard to establish the same high-quality (gigabit to each room) network everywhere,
